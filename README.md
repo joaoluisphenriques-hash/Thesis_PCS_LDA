@@ -53,7 +53,7 @@ python -m nltk.downloader stopwords
 
 O texto integral dos 125 artigos (a maioria atrás de paywall) e a sua versão
 tokenizada **não são distribuídos** neste repositório, por razões de copyright:
-`data/raw_text/`, `data/tokens.json` e `ponto2_robustez/data_variants/` estão
+`data/raw_text/`, `data/tokens.json` e `robustness/data_variants/` estão
 excluídos via `.gitignore`. São regeneráveis a partir dos PDFs originais.
 
 Para reproduzir de raiz, coloque os PDFs em `LDA_PAPERS/` (na raiz) e corra os
@@ -114,5 +114,6 @@ que ficam versionados.
 - Correção de lemas: datum→data, PCSs→pcs, KPIs→kpi.
 
 
-Robustness analysis (Appendix D of the thesis)
-The robustness/ folder contains a full robustness analysis of the review's central finding: 32 variant LDA models (ten random seeds at k = 12; k = 10 and k = 14 with five seeds each; four alternative preprocessing pipelines with three seeds each) re-estimated from scratch and mapped onto the four analytical layers of the thesis via Jensen–Shannon distance between topic–word distributions. The operational core contracts in 32 of 32 models and the institutional-and-strategic layer overtakes it in the final period in 28 of 32 the aggregate four-layer pattern is robust to seed, number of topics and preprocessing, while individual topics remain initialisation-sensitive. See robustness/README.md for the design, headline numbers and reproduction steps.
+## Robustness analysis (Appendix D of the thesis)
+
+The `robustness/` folder contains a full robustness analysis of the review's central finding: 32 variant LDA models (ten random seeds at k = 12; k = 10 and k = 14 with five seeds each; four alternative preprocessing pipelines with three seeds each) re-estimated from scratch and mapped onto the four analytical layers of the thesis via Jensen–Shannon distance between topic–word distributions. The operational core contracts in 32 of 32 models and the institutional-and-strategic layer overtakes it in the final period in 28 of 32 — the aggregate four-layer pattern is robust to seed, number of topics and preprocessing, while individual topics remain initialisation-sensitive. See `robustness/README.md` for the design, headline numbers and reproduction steps.
