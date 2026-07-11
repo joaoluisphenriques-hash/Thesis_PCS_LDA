@@ -112,3 +112,7 @@ que ficam versionados.
 - Filtro de linhas em espanhol (3 revistas bilingues: Sidorov 2021, Soto 2022,
   Tuñoque-Morante 2024) + stopwords multilingues.
 - Correção de lemas: datum→data, PCSs→pcs, KPIs→kpi.
+
+
+Robustness analysis (Appendix D of the thesis)
+The robustness/ folder contains a full robustness analysis of the review's central finding: 32 variant LDA models (ten random seeds at k = 12; k = 10 and k = 14 with five seeds each; four alternative preprocessing pipelines with three seeds each) re-estimated from scratch and mapped onto the four analytical layers of the thesis via Jensen–Shannon distance between topic–word distributions. The operational core contracts in 32 of 32 models and the institutional-and-strategic layer overtakes it in the final period in 28 of 32 — the aggregate four-layer pattern is robust to seed, number of topics and preprocessing, while individual topics remain initialisation-sensitive. See robustness/README.md for the design, headline numbers and reproduction steps.
