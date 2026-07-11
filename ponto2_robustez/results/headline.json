@@ -1,0 +1,78 @@
+{
+  "n_runs": 32,
+  "n_op_declines": 32,
+  "n_op_monotone": 15,
+  "n_inst_rises": 27,
+  "n_crossover_last_period": 28,
+  "n_tech_rises": 28,
+  "n_meta_rises": 24,
+  "corr_with_thesis_mean": 0.89027167146737,
+  "corr_with_thesis_min": 0.4823132083208215,
+  "mean_top10_overlap_with_ref": 0.3497619047619047,
+  "by_axis": {
+    "A_seeds": {
+      "n": 10,
+      "op_declines": 10,
+      "inst_rises": 9,
+      "crossover": 9,
+      "op_monotone": 5,
+      "op_delta_range": [
+        -33.16766018183823,
+        -9.992710803703638
+      ],
+      "inst_delta_range": [
+        -3.013047731459068,
+        27.593406033831037
+      ]
+    },
+    "B_k": {
+      "n": 10,
+      "op_declines": 10,
+      "inst_rises": 10,
+      "crossover": 8,
+      "op_monotone": 7,
+      "op_delta_range": [
+        -37.08004770280317,
+        -11.045297156469285
+      ],
+      "inst_delta_range": [
+        0.15515817849897928,
+        17.592410066455002
+      ]
+    },
+    "C_prepro": {
+      "n": 12,
+      "op_declines": 12,
+      "inst_rises": 8,
+      "crossover": 11,
+      "op_monotone": 3,
+      "op_delta_range": [
+        -39.52574715763147,
+        -6.719643228579272
+      ],
+      "inst_delta_range": [
+        -8.254674149607894,
+        30.004474084133413
+      ]
+    }
+  },
+  "seed_stability": {
+    "seeds": [
+      42,
+      7,
+      13,
+      21,
+      99,
+      1,
+      2,
+      3,
+      123,
+      2024
+    ],
+    "n_pairs": 45,
+    "mean_ari_topic": 0.12748590735023252,
+    "mean_ari_layer": 0.18431815730647053,
+    "mean_layer_agreement": 0.5975111111111111,
+    "note": "ARI ao n\u00edvel do t\u00f3pico replica a m\u00e9trica da tese (0.135 em 5 seeds); ARI/concord\u00e2ncia ao n\u00edvel da camada mede a estabilidade \u00e0 granularidade a que as conclus\u00f5es s\u00e3o feitas."
+  }
+}

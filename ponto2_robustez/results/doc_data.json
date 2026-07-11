@@ -1,0 +1,527 @@
+{
+  "headline": {
+    "n_runs": 32,
+    "n_op_declines": 32,
+    "n_op_monotone": 15,
+    "n_inst_rises": 27,
+    "n_crossover_last_period": 28,
+    "n_tech_rises": 28,
+    "n_meta_rises": 24,
+    "corr_with_thesis_mean": 0.89027167146737,
+    "corr_with_thesis_min": 0.4823132083208215,
+    "mean_top10_overlap_with_ref": 0.3497619047619047,
+    "by_axis": {
+      "A_seeds": {
+        "n": 10,
+        "op_declines": 10,
+        "inst_rises": 9,
+        "crossover": 9,
+        "op_monotone": 5,
+        "op_delta_range": [
+          -33.16766018183823,
+          -9.992710803703638
+        ],
+        "inst_delta_range": [
+          -3.013047731459068,
+          27.593406033831037
+        ]
+      },
+      "B_k": {
+        "n": 10,
+        "op_declines": 10,
+        "inst_rises": 10,
+        "crossover": 8,
+        "op_monotone": 7,
+        "op_delta_range": [
+          -37.08004770280317,
+          -11.045297156469285
+        ],
+        "inst_delta_range": [
+          0.15515817849897928,
+          17.592410066455002
+        ]
+      },
+      "C_prepro": {
+        "n": 12,
+        "op_declines": 12,
+        "inst_rises": 8,
+        "crossover": 11,
+        "op_monotone": 3,
+        "op_delta_range": [
+          -39.52574715763147,
+          -6.719643228579272
+        ],
+        "inst_delta_range": [
+          -8.254674149607894,
+          30.004474084133413
+        ]
+      }
+    },
+    "seed_stability": {
+      "seeds": [
+        42,
+        7,
+        13,
+        21,
+        99,
+        1,
+        2,
+        3,
+        123,
+        2024
+      ],
+      "n_pairs": 45,
+      "mean_ari_topic": 0.12748590735023252,
+      "mean_ari_layer": 0.18431815730647053,
+      "mean_layer_agreement": 0.5975111111111111,
+      "note": "ARI ao nível do tópico replica a métrica da tese (0.135 em 5 seeds); ARI/concordância ao nível da camada mede a estabilidade à granularidade a que as conclusões são feitas."
+    }
+  },
+  "reference_check": {
+    "max_abs_dev_pp": 0.04065544243947272,
+    "ref_cv_same_method": 0.40103166775714866
+  },
+  "thesis_table41": {
+    "operational": [
+      58.9,
+      57.9,
+      49.0,
+      32.2
+    ],
+    "institutional": [
+      25.3,
+      30.6,
+      30.3,
+      35.7
+    ],
+    "technology": [
+      15.5,
+      8.8,
+      16.8,
+      24.2
+    ],
+    "meta": [
+      0.3,
+      2.7,
+      3.9,
+      7.9
+    ]
+  },
+  "layer_titles": {
+    "operational": "Operational core (T8, T6, T7, T0)",
+    "institutional": "Institutional & strategic (T10, T3, T9)",
+    "technology": "Technology enablers (T1, T5, T2, T11)",
+    "meta": "Meta-research (T4)"
+  },
+  "period_labels": [
+    "2007-2014",
+    "2015-2018",
+    "2019-2022",
+    "2023-2026"
+  ],
+  "exceptions": {
+    "no_crossover_runs": [
+      "A_k12_s7",
+      "B_k10_s42",
+      "B_k14_s7",
+      "C_unigrams_s13"
+    ],
+    "inst_decline_runs": [
+      {
+        "run_id": "A_k12_s21",
+        "inst_delta": -3.0
+      },
+      {
+        "run_id": "C_unigrams_s13",
+        "inst_delta": -1.5
+      },
+      {
+        "run_id": "C_unigrams_s42",
+        "inst_delta": -3.2
+      },
+      {
+        "run_id": "C_vocab_loose_s7",
+        "inst_delta": -8.3
+      },
+      {
+        "run_id": "C_vocab_strict_s42",
+        "inst_delta": -1.5
+      }
+    ]
+  },
+  "n_terms_by_variant": {
+    "k10": 5002,
+    "k14": 5002,
+    "no_domain_stop": 5517,
+    "reference_prepro": 5002,
+    "unigrams": 3596,
+    "vocab_loose": 10148,
+    "vocab_strict": 2465
+  },
+  "cv_range_all_runs": [
+    0.353,
+    0.452
+  ],
+  "op_delta_all": [
+    -39.5,
+    -6.7
+  ],
+  "table_seeds": [
+    {
+      "group": "10 seeds, k=12",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "52.1 ± 9.6",
+        "52.3 ± 7.4",
+        "38.9 ± 6.7",
+        "30.1 ± 4.8"
+      ]
+    },
+    {
+      "group": "10 seeds, k=12",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "31.3 ± 8.2",
+        "30.6 ± 6.8",
+        "38.4 ± 6.7",
+        "43.0 ± 6.9"
+      ]
+    },
+    {
+      "group": "10 seeds, k=12",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "15.7 ± 6.7",
+        "15.1 ± 5.1",
+        "19.1 ± 6.4",
+        "22.3 ± 4.6"
+      ]
+    },
+    {
+      "group": "10 seeds, k=12",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "0.9 ± 1.4",
+        "2.1 ± 2.4",
+        "3.7 ± 4.0",
+        "4.6 ± 4.5"
+      ]
+    }
+  ],
+  "table_k": [
+    {
+      "group": "k=10",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "59.1 ± 10.8",
+        "55.4 ± 7.6",
+        "42.0 ± 11.7",
+        "29.7 ± 7.1"
+      ]
+    },
+    {
+      "group": "k=10",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "27.6 ± 10.0",
+        "29.2 ± 6.3",
+        "37.1 ± 11.7",
+        "37.6 ± 11.5"
+      ]
+    },
+    {
+      "group": "k=10",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "11.8 ± 4.6",
+        "12.6 ± 2.7",
+        "15.7 ± 7.4",
+        "24.4 ± 6.4"
+      ]
+    },
+    {
+      "group": "k=10",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "1.4 ± 1.5",
+        "2.9 ± 2.4",
+        "5.2 ± 4.5",
+        "8.4 ± 5.2"
+      ]
+    },
+    {
+      "group": "k=12",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "52.4 ± 12.7",
+        "50.5 ± 9.1",
+        "37.5 ± 8.7",
+        "29.0 ± 5.3"
+      ]
+    },
+    {
+      "group": "k=12",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "31.1 ± 7.3",
+        "31.4 ± 6.5",
+        "39.2 ± 8.2",
+        "39.7 ± 8.0"
+      ]
+    },
+    {
+      "group": "k=12",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "15.0 ± 6.8",
+        "14.9 ± 5.2",
+        "18.4 ± 4.7",
+        "24.4 ± 3.0"
+      ]
+    },
+    {
+      "group": "k=12",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "1.5 ± 1.7",
+        "3.1 ± 2.5",
+        "5.0 ± 4.2",
+        "6.8 ± 4.6"
+      ]
+    },
+    {
+      "group": "k=14",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "58.2 ± 14.0",
+        "52.9 ± 6.5",
+        "41.3 ± 8.5",
+        "33.8 ± 4.2"
+      ]
+    },
+    {
+      "group": "k=14",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "27.0 ± 11.3",
+        "28.6 ± 5.2",
+        "34.9 ± 7.4",
+        "36.1 ± 8.0"
+      ]
+    },
+    {
+      "group": "k=14",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "12.6 ± 4.0",
+        "16.2 ± 3.7",
+        "19.4 ± 6.8",
+        "21.3 ± 5.2"
+      ]
+    },
+    {
+      "group": "k=14",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "2.2 ± 2.5",
+        "2.3 ± 1.7",
+        "4.5 ± 2.0",
+        "8.9 ± 1.6"
+      ]
+    }
+  ],
+  "table_prepro": [
+    {
+      "group": "unigrams",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "42.3 ± 9.8",
+        "47.2 ± 5.0",
+        "39.2 ± 8.3",
+        "31.4 ± 7.7"
+      ]
+    },
+    {
+      "group": "unigrams",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "36.1 ± 3.0",
+        "33.1 ± 3.6",
+        "35.0 ± 8.4",
+        "35.5 ± 6.2"
+      ]
+    },
+    {
+      "group": "unigrams",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "20.7 ± 10.6",
+        "17.7 ± 6.0",
+        "20.8 ± 5.9",
+        "22.4 ± 7.2"
+      ]
+    },
+    {
+      "group": "unigrams",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "0.9 ± 0.9",
+        "2.1 ± 0.9",
+        "5.0 ± 2.5",
+        "10.7 ± 2.0"
+      ]
+    },
+    {
+      "group": "vocab_loose",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "53.5 ± 5.3",
+        "61.8 ± 8.0",
+        "44.4 ± 4.9",
+        "33.2 ± 4.4"
+      ]
+    },
+    {
+      "group": "vocab_loose",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "38.1 ± 13.6",
+        "32.8 ± 7.7",
+        "42.9 ± 5.0",
+        "42.5 ± 5.1"
+      ]
+    },
+    {
+      "group": "vocab_loose",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "6.1 ± 8.8",
+        "3.4 ± 2.3",
+        "8.1 ± 4.5",
+        "10.3 ± 9.0"
+      ]
+    },
+    {
+      "group": "vocab_loose",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "2.4 ± 0.9",
+        "2.0 ± 0.8",
+        "4.6 ± 1.1",
+        "13.9 ± 9.3"
+      ]
+    },
+    {
+      "group": "vocab_strict",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "50.4 ± 19.3",
+        "52.1 ± 7.3",
+        "35.7 ± 6.3",
+        "22.2 ± 7.6"
+      ]
+    },
+    {
+      "group": "vocab_strict",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "31.8 ± 15.3",
+        "29.8 ± 2.2",
+        "40.8 ± 3.5",
+        "47.2 ± 3.1"
+      ]
+    },
+    {
+      "group": "vocab_strict",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "17.8 ± 5.8",
+        "16.7 ± 3.4",
+        "21.8 ± 4.4",
+        "29.4 ± 7.7"
+      ]
+    },
+    {
+      "group": "vocab_strict",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "0.1 ± 0.2",
+        "1.4 ± 2.4",
+        "1.7 ± 3.0",
+        "1.1 ± 1.9"
+      ]
+    },
+    {
+      "group": "no_domain_stop",
+      "layer": "operational",
+      "layer_title": "Operational core (T8, T6, T7, T0)",
+      "cells": [
+        "45.3 ± 21.9",
+        "45.8 ± 15.5",
+        "28.5 ± 14.3",
+        "23.1 ± 12.7"
+      ]
+    },
+    {
+      "group": "no_domain_stop",
+      "layer": "institutional",
+      "layer_title": "Institutional & strategic (T10, T3, T9)",
+      "cells": [
+        "32.3 ± 12.1",
+        "37.0 ± 15.8",
+        "48.3 ± 10.9",
+        "48.4 ± 4.4"
+      ]
+    },
+    {
+      "group": "no_domain_stop",
+      "layer": "technology",
+      "layer_title": "Technology enablers (T1, T5, T2, T11)",
+      "cells": [
+        "22.3 ± 10.3",
+        "15.1 ± 9.1",
+        "19.2 ± 8.5",
+        "24.1 ± 4.3"
+      ]
+    },
+    {
+      "group": "no_domain_stop",
+      "layer": "meta",
+      "layer_title": "Meta-research (T4)",
+      "cells": [
+        "0.1 ± 0.1",
+        "2.1 ± 1.8",
+        "3.9 ± 3.5",
+        "4.4 ± 4.2"
+      ]
+    }
+  ]
+}

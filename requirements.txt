@@ -1,0 +1,25 @@
+# Dependências Python do pipeline LDA
+# Versões exatas usadas para produzir os resultados (Python 3.11).
+#
+# Instalação:
+#   python -m venv .venv
+#   .venv\Scripts\activate            (Windows)   |   source .venv/bin/activate  (Linux/macOS)
+#   pip install -r requirements.txt
+#
+# Modelos/corpora adicionais (uma vez, após instalar):
+#   python -m spacy download en_core_web_sm
+#   python -m nltk.downloader stopwords
+
+PyMuPDF==1.28.0
+spacy==3.8.14
+nltk==3.9.4
+gensim==4.4.0
+scikit-learn==1.9.0
+scipy==1.17.1
+numpy==2.4.6
+pandas==2.2.3
+matplotlib==3.11.0
+wordcloud==1.9.6
+pycountry==26.2.16
+pyLDAvis==3.4.1
+python-docx==1.2.0

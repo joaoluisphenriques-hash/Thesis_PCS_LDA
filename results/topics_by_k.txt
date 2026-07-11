@@ -1,0 +1,729 @@
+
+===== k=3 seed=42 =====
+  T0: governance, msw, pcs, business_model, dimension, port_call, taxonomy, digital_platform, nmsw, ict, declaration, shipment
+  T1: blockchain, module, event, gate, vehicle, blockchain_technology, layer, container_terminal, database, truck, pcs, block
+  T2: smart_port, sustainability, indicator, smart, digital_transformation, resilience, energy, dimension, variable, service_quality, evaluation, trend
+
+===== k=3 seed=7 =====
+  T0: blockchain, msw, module, pcs, shipment, layer, export, send, submit, declaration, nmsw, import
+  T1: smart_port, sustainability, smart, energy, resilience, indicator, event, blockchain, optimization, safety, sustainable, gate
+  T2: governance, dimension, cluster, business_model, taxonomy, ecosystem, barrier, digital_platform, variable, ict, pcs, power
+
+===== k=3 seed=13 =====
+  T0: pcs, msw, module, ict, export, shipment, submit, import, declaration, send, governance, nmsw
+  T1: blockchain, smart_port, smart, business_model, dimension, cluster, taxonomy, barrier, blockchain_technology, big_data, publication, trend
+  T2: sustainability, governance, smart_port, indicator, resilience, variable, energy, dimension, digital_transformation, average, sustainable, optimization
+
+===== k=4 seed=42 =====
+  T0: governance, msw, business_model, dimension, port_call, taxonomy, barrier, nmsw, cluster, agency, ecosystem, digital_platform
+  T1: blockchain, gate, event, blockchain_technology, cluster, module, trend, publication, vehicle, safety, sustainability, node
+  T2: smart_port, sustainability, indicator, digital_transformation, energy, variable, resilience, dimension, service_quality, evaluation, sustainable, expert
+  T3: pcs, ict, export, import, freight_forwarder, module, layer, shipment, terminal_operator, container_terminal, smart, send
+
+===== k=4 seed=7 =====
+  T0: msw, module, blockchain, pcs, shipment, layer, export, send, import, declaration, code, message
+  T1: smart_port, blockchain, smart, event, optimization, indicator, safety, gate, resilience, port_call, vehicle, blockchain_technology
+  T2: governance, dimension, cluster, business_model, ecosystem, taxonomy, barrier, digital_platform, variable, digital_technology, digital_transformation, indonesia
+  T3: sustainability, nmsw, ict, energy, smart_technology, maritime_transport, sustainable, port_bar, montenegro, prototype, traffic, transition
+
+===== k=4 seed=13 =====
+  T0: pcs, ict, export, shipment, import, layer, module, send, container_terminal, code, freight_forwarder, vehicle
+  T1: blockchain, smart_port, barrier, smart, blockchain_technology, publication, cluster, trend, smart_technology, big_data, theme, iot
+  T2: sustainability, smart_port, indicator, resilience, variable, energy, dimension, digital_transformation, sustainable, average, optimization, governance
+  T3: msw, taxonomy, dimension, business_model, governance, port_call, nmsw, module, indonesia, cluster, agency, ecosystem
+
+===== k=5 seed=42 =====
+  T0: governance, msw, dimension, business_model, port_call, taxonomy, barrier, cluster, nmsw, ecosystem, maritime_transport, digital_platform
+  T1: blockchain, module, blockchain_technology, block, enter, event, traffic, vehicle, pass, prototype, node, attack
+  T2: smart_port, sustainability, indicator, energy, service_quality, digital_transformation, variable, dimension, sustainable, evaluation, construct, indonesia
+  T3: pcs, import, ict, export, shipment, terminal_operator, freight_forwarder, smart_technology, container_terminal, smart, layer, scenario
+  T4: resilience, trend, publication, cluster, gate, academic, big_data, ais, topic, wave, theme, search
+
+===== k=5 seed=7 =====
+  T0: blockchain, resilience, layer, node, hub, block, indicator, tradelen, kpi, bill_lading, smart_port, average
+  T1: smart_port, blockchain, smart, gate, port_call, event, safety, blockchain_technology, optimization, vehicle, scheduling, digitalization
+  T2: governance, dimension, cluster, business_model, taxonomy, ecosystem, barrier, variable, digital_platform, pcs, indonesia, firm
+  T3: sustainability, energy, sustainable, port_bar, criterion, green, transition, emission, power, indicator, smart_port, index
+  T4: msw, module, pcs, ict, nmsw, export, traffic, send, smart_technology, maritime_transport, agency, submit
+
+===== k=5 seed=13 =====
+  T0: pcs, ict, shipment, import, module, export, layer, send, code, private, container_terminal, declaration
+  T1: blockchain, smart_port, blockchain_technology, smart, publication, smart_technology, cluster, trend, big_data, barrier, theme, iot
+  T2: smart_port, sustainability, indicator, energy, digital_transformation, dimension, governance, sustainable, variable, evaluation, service_quality, index
+  T3: msw, taxonomy, dimension, business_model, governance, nmsw, module, indonesia, ecosystem, agency, maritime_single_window, cluster
+  T4: resilience, event, port_call, berth, optimization, safety, hub, scheduling, arrival, imo, average, scenario
+
+===== k=6 seed=42 =====
+  T0: governance, dimension, msw, business_model, port_call, taxonomy, nmsw, cluster, ecosystem, barrier, reporting, digital_platform
+  T1: module, safety, traffic, event, cause, pass, attack, digital_technology, hour, sustainability, permit, enter
+  T2: smart_port, sustainability, indicator, energy, service_quality, variable, dimension, digital_transformation, sustainable, smart, construct, indonesia
+  T3: pcs, ict, export, import, shipment, terminal_operator, scenario, module, smart_technology, custom_declaration, layer, freight_forwarder
+  T4: resilience, trend, cluster, publication, academic, theme, topic, gate, wave, search, publish, ais
+  T5: blockchain, blockchain_technology, pcs, block, chain, smart_contract, vehicle, node, msw, smart, truck, iot
+
+===== k=6 seed=7 =====
+  T0: smart_port, resilience, indicator, hub, kpi, evaluation, layer, average, node, maturity_model, smart, driver
+  T1: blockchain, port_call, blockchain_technology, block, tradelen, chain, smart_contract, trust, attack, event, berth, bill_lading
+  T2: governance, dimension, business_model, taxonomy, ecosystem, barrier, cluster, digital_platform, variable, indonesia, firm, pcs
+  T3: sustainability, energy, sustainable, smart_port, port_bar, transition, emission, criterion, green, indicator, power, fuel
+  T4: msw, module, pcs, ict, nmsw, export, traffic, maritime_transport, smart_technology, send, submit, ship_agent
+  T5: optimization, trend, publication, digital_transformation, scheduling, gate, event, digitalization, big_data, ais, cluster, academic
+
+===== k=6 seed=13 =====
+  T0: pcs, ict, shipment, import, export, module, layer, send, private, code, declaration, custom_declaration
+  T1: blockchain, blockchain_technology, smart_technology, cluster, publication, smart, block, iot, big_data, smart_contract, trend, search
+  T2: sustainability, smart_port, energy, sustainable, governance, indicator, transition, emission, green, port_bar, index, regional
+  T3: msw, taxonomy, business_model, nmsw, module, governance, dimension, agency, nsw, cluster, maritime_single_window, maritime_transport
+  T4: event, resilience, port_call, berth, optimization, safety, hub, scheduling, arrival, average, attack, truck
+  T5: smart_port, dimension, digital_transformation, barrier, service_quality, expert, variable, criterion, evaluation, construct, digitalization, indonesia
+
+===== k=7 seed=42 =====
+  T0: governance, dimension, business_model, taxonomy, barrier, ecosystem, cluster, digital_platform, power, port_call, information_sharing, public_private
+  T1: event, safety, digital_technology, attack, cybersecurity, domain, compliance, digitalization, threat, custom_authority, cause, navigation
+  T2: smart_port, sustainability, indicator, energy, digital_transformation, service_quality, variable, sustainable, smart, dimension, indonesia, score
+  T3: pcs, ict, terminal_operator, export, smart_technology, scenario, hub, smart, module, layer, edi, success
+  T4: resilience, trend, cluster, publication, academic, gate, wave, theme, publish, search, topic, driver
+  T5: blockchain, blockchain_technology, pcs, code, block, chain, bill_lading, tradelen, smart_contract, import, node, vehicle
+  T6: msw, module, nmsw, imo, ict, traffic, maritime_transport, port_call, agency, reporting, montenegro, nsw
+
+===== k=7 seed=7 =====
+  T0: smart_port, resilience, node, indicator, hub, kpi, layer, evaluation, maturity_model, smart, matrix, domain
+  T1: blockchain, smart_port, blockchain_technology, port_call, service_quality, smart_contract, attack, maritime_industry, participant, smart, iot, compliance
+  T2: governance, dimension, business_model, ecosystem, taxonomy, barrier, cluster, variable, digital_platform, indonesia, firm, digital_transformation
+  T3: sustainability, energy, sustainable, nmsw, port_bar, emission, transition, montenegro, criterion, green, indicator, fuel
+  T4: module, ict, smart_technology, pcs, export, pass, prototype, italy, port_rijeka, produce, mnsw, smart
+  T5: optimization, trend, publication, digital_transformation, gate, scheduling, academic, cluster, event, big_data, search, theme
+  T6: msw, pcs, declaration, submit, import, reporting, imo, shipment, send, format, traffic, code
+
+===== k=7 seed=13 =====
+  T0: pcs, shipment, import, layer, module, send, ict, code, private, export, declaration, vehicle
+  T1: blockchain, blockchain_technology, smart_technology, publication, cluster, block, smart, smart_contract, iot, academic, theme, big_data
+  T2: governance, variable, indicator, port_call, cluster, region, success, edi, pcs, average, kpi, ict
+  T3: msw, nmsw, module, agency, nsw, maritime_transport, traffic, maritime_single_window, reporting, clearance, national_single_window, montenegro
+  T4: event, optimization, berth, resilience, scheduling, safety, hub, port_call, arrival, attack, truck, ais
+  T5: dimension, digital_transformation, barrier, expert, indonesia, ecosystem, construct, measurement, digitalization, investigate, maturity_model, evaluation
+  T6: smart_port, sustainability, business_model, dimension, taxonomy, energy, sustainable, smart, green, port_bar, criterion, emission
+
+===== k=8 seed=42 =====
+  T0: governance, dimension, business_model, taxonomy, barrier, cluster, ecosystem, digital_platform, power, information_sharing, public_private, netherlands
+  T1: safety, digital_technology, sustainability, event, domain, attack, cybersecurity, digitalization, smart_port, threat, navigation, training
+  T2: smart_port, indicator, service_quality, variable, digital_transformation, dimension, indonesia, score, construct, measurement, evaluation, kpi
+  T3: hub, ict, smart_technology, pcs, smart, scenario, edi, success, terminal_operator, test, shipping_line, shipper
+  T4: resilience, trend, sustainability, energy, cluster, publication, academic, wave, gate, theme, emission, publish
+  T5: blockchain, blockchain_technology, layer, block, tradelen, smart_contract, chain, bill_lading, truck, node, vehicle, container_terminal
+  T6: module, nmsw, port_call, ict, imo, berth, prototype, pass, reporting, traffic, nsw, enter
+  T7: msw, pcs, export, sustainability, port_bar, send, submit, agency, import, module, ship_agent, shipment
+
+===== k=8 seed=7 =====
+  T0: smart_port, resilience, node, indicator, hub, layer, maturity_model, evaluation, matrix, space, domain, index
+  T1: blockchain, smart_port, blockchain_technology, port_call, service_quality, smart_contract, participant, barrier, block, trust, chain, regulatory
+  T2: governance, dimension, business_model, ecosystem, taxonomy, barrier, cluster, variable, digital_platform, indonesia, firm, success
+  T3: sustainability, energy, sustainable, nmsw, port_bar, transition, montenegro, emission, criterion, green, indicator, fuel
+  T4: module, ict, smart_technology, pcs, pass, smart, prototype, port_rijeka, mnsw, italy, subject, shipping_agency
+  T5: trend, digital_transformation, optimization, academic, publication, cluster, wave, smart_port, attention, reflect, scheduling, theme
+  T6: msw, pcs, declaration, shipment, import, submit, send, export, custom_declaration, code, message, clearance
+  T7: event, big_data, vehicle, gate, safety, ais, attack, navigation, truck, sensor, smart, terminal_operator
+
+===== k=8 seed=13 =====
+  T0: pcs, ict, module, vehicle, gate, container_terminal, governance, import, private, shipment, export, send
+  T1: cluster, publication, smart_technology, big_data, trend, smart, theme, academic, search, topic, wave, maritime_logistic
+  T2: governance, port_call, indicator, variable, region, index, kpi, cluster, success, average, ecosystem, edi
+  T3: msw, module, nmsw, agency, nsw, maritime_transport, traffic, clearance, maritime_single_window, montenegro, national_single_window, reporting
+  T4: event, berth, optimization, resilience, scheduling, port_call, safety, attack, ais, imo, scenario, truck
+  T5: digital_transformation, barrier, construct, dimension, expert, measurement, resilience, indonesia, evaluation, digitalization, investigate, organizational
+  T6: smart_port, sustainability, dimension, business_model, taxonomy, energy, sustainable, port_bar, service_quality, green, emission, criterion
+  T7: blockchain, blockchain_technology, node, block, layer, chain, bill_lading, trust, tradelen, smart_contract, right, freight_forwarder
+
+===== k=9 seed=42 =====
+  T0: governance, dimension, business_model, taxonomy, ecosystem, barrier, cluster, digital_platform, power, information_sharing, public_private, right
+  T1: safety, event, resilience, digital_technology, attack, cybersecurity, domain, digitalization, threat, navigation, vulnerability, cause
+  T2: smart_port, indicator, variable, service_quality, digital_transformation, dimension, indonesia, construct, score, average, measurement, expert
+  T3: smart_technology, ict, edi, smart, success, terminal_operator, maturity_model, shipping_line, region, shipper, successful, network_effect
+  T4: trend, publication, academic, cluster, gate, theme, wave, publish, search, attention, big_data, reflect
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, chain, node, bill_lading, layer, trust, code, iot
+  T6: module, port_call, berth, imo, ict, traffic, arrival, reporting, vts, vehicle, time_window, port_rijeka
+  T7: msw, sustainability, nmsw, energy, port_bar, montenegro, sustainable, agency, emission, trade_facilitation, administration, nsw
+  T8: pcs, export, shipment, import, send, hub, layer, prototype, ict, logistic_chain, freight_forwarder, import_export
+
+===== k=9 seed=7 =====
+  T0: blockchain, resilience, smart_port, node, block, maturity_model, indicator, evaluation, smart_contract, chain, domain, matrix
+  T1: smart_port, blockchain, blockchain_technology, port_call, digital_transformation, service_quality, digital_technology, smart, regulatory, barrier, participant, digitalization
+  T2: governance, dimension, ecosystem, variable, barrier, indonesia, measurement, firm, success, public_private, digital_transformation, region
+  T3: sustainability, energy, sustainable, port_bar, transition, smart_port, emission, green, indicator, criterion, fuel, regional
+  T4: module, nmsw, ict, pcs, prototype, maritime_transport, pass, italy, port_rijeka, mnsw, croatia, montenegro
+  T5: optimization, scheduling, event, variable, container_terminal, truck, average, hour, crane, prediction, assign, congestion
+  T6: msw, pcs, declaration, shipment, submit, import, send, check, code, custom_declaration, format, clearance
+  T7: event, big_data, attack, kpi, ais, navigation, safety, compliance, time_window, terminal_operator, dashboard, appointment
+  T8: business_model, taxonomy, dimension, hub, smart, cluster, smart_technology, gate, trend, search, publication, academic
+
+===== k=9 seed=13 =====
+  T0: pcs, module, vehicle, container_terminal, export, layer, gate, prototype, pass, send, terminal_operator, store
+  T1: cluster, smart_technology, publication, trend, smart, big_data, theme, search, academic, topic, wave, blockchain
+  T2: smart_port, port_call, indicator, gate, kpi, energy, index, safety, intelligent, terminal_operator, berth, success
+  T3: msw, module, nmsw, agency, maritime_transport, nsw, traffic, clearance, maritime_single_window, montenegro, reporting, submit
+  T4: event, optimization, berth, scheduling, attack, scenario, safety, imo, ais, average, port_call, constraint
+  T5: digital_transformation, resilience, barrier, evaluation, expert, measurement, score, dimension, maturity_model, construct, investigate, digitalization
+  T6: sustainability, dimension, business_model, taxonomy, sustainable, energy, service_quality, port_bar, smart_port, criterion, hub, indonesia
+  T7: blockchain, blockchain_technology, pcs, chain, block, bill_lading, node, freight_forwarder, tradelen, smart_contract, trust, shipment
+  T8: governance, variable, ict, region, public_private, private, power, ecosystem, political, participant, container_terminal, cluster
+
+===== k=10 seed=42 =====
+  T0: governance, dimension, business_model, taxonomy, ecosystem, cluster, barrier, digital_platform, port_call, public_private, information_sharing, right
+  T1: safety, event, digital_technology, attack, cybersecurity, domain, compliance, threat, navigation, digitalization, marine, cause
+  T2: dimension, variable, indonesia, digital_transformation, service_quality, optimization, measurement, average, construct, employ, event, indicator
+  T3: ict, edi, success, maturity_model, terminal_operator, barrier, participant, political, successful, shipping_line, power, shipper
+  T4: publication, trend, cluster, academic, theme, gate, wave, search, publish, digital_transformation, topic, attention
+  T5: blockchain, blockchain_technology, block, smart_contract, tradelen, chain, node, bill_lading, layer, trust, code, contract
+  T6: module, nmsw, imo, port_call, msw, ict, nsw, maritime_transport, reporting, traffic, berth, clearance
+  T7: sustainability, msw, energy, port_bar, sustainable, emission, transition, trade_facilitation, big_data, fuel, green, industrial
+  T8: pcs, export, shipment, import, send, layer, prototype, logistic_chain, freight_forwarder, road, pass, italy
+  T9: smart_port, smart, indicator, smart_technology, resilience, expert, evaluation, kpi, index, weight, driver, service_quality
+
+===== k=10 seed=7 =====
+  T0: smart_port, resilience, indicator, evaluation, node, maturity_model, matrix, index, domain, expert, score, driver
+  T1: blockchain, smart_port, blockchain_technology, block, smart_contract, chain, trust, participant, china, digital_technology, maritime_industry, contract
+  T2: governance, barrier, public_private, ecosystem, cluster, edi, power, success, region, private, pcs, knowledge_management
+  T3: sustainability, energy, sustainable, port_bar, smart_port, emission, transition, green, smart, criterion, fuel, indicator
+  T4: module, nmsw, ict, pass, maritime_transport, prototype, pcs, montenegro, port_rijeka, mnsw, italy, croatia
+  T5: optimization, scheduling, event, truck, crane, modeling, hour, congestion, smart_port, assign, prediction, simulation
+  T6: msw, pcs, declaration, send, submit, shipment, import, export, custom_declaration, check, code, format
+  T7: big_data, event, safety, attack, kpi, ais, navigation, compliance, cybersecurity, time_window, detection, dashboard
+  T8: business_model, taxonomy, dimension, hub, cluster, smart, smart_technology, trend, gate, publication, search, academic
+  T9: dimension, digital_transformation, indonesia, port_call, service_quality, measurement, variable, organizational, construct, ecosystem, outcome, barrier
+
+===== k=10 seed=13 =====
+  T0: pcs, module, import, send, export, prototype, shipment, container_terminal, check, store, format, pass
+  T1: cluster, smart_technology, publication, trend, big_data, smart, theme, search, topic, academic, wave, maritime_logistic
+  T2: port_call, terminal_operator, success, berth, information_sharing, barrier, edi, ict, generation, regulatory, domain, manager
+  T3: msw, module, nmsw, agency, nsw, maritime_transport, traffic, montenegro, maritime_single_window, clearance, custom_authority, cross_border
+  T4: event, optimization, berth, scheduling, attack, safety, imo, scenario, ais, average, constraint, navigation
+  T5: digital_transformation, resilience, barrier, maturity_model, expert, digital_technology, measurement, digitalization, investigate, maturity, organizational, digital_maturity
+  T6: sustainability, dimension, business_model, taxonomy, energy, sustainable, indonesia, port_bar, regional, hub, transition, emission
+  T7: blockchain, blockchain_technology, chain, block, node, bill_lading, layer, pcs, tradelen, smart_contract, trust, freight_forwarder
+  T8: governance, ict, power, region, private, public_private, participant, ecosystem, political, cluster, trade_facilitation, agreement
+  T9: smart_port, indicator, variable, service_quality, evaluation, index, gate, kpi, weight, construct, container_terminal, smart
+
+===== k=11 seed=42 =====
+  T0: business_model, dimension, taxonomy, port_call, cluster, information_sharing, digital_platform, barrier, respective, value_add, external, manager
+  T1: event, attack, safety, digital_technology, cybersecurity, compliance, threat, detection, vulnerability, navigation, domain, digital_infrastructure
+  T2: indonesia, service_quality, optimization, variable, resilience, event, hub, berth, average, strategic_alliance, employ, modeling
+  T3: barrier, ict, terminal_operator, edi, power, maturity_model, success, knowledge_management, shipping_line, participant, shipper, political
+  T4: publication, trend, cluster, academic, big_data, theme, wave, gate, topic, search, publish, maritime_logistic
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, layer, bill_lading, node, chain, trust, protocol, contract
+  T6: module, nmsw, ict, imo, vehicle, prototype, traffic, port_call, reporting, pass, nsw, maritime_transport
+  T7: msw, port_bar, montenegro, trade_facilitation, agency, submit, average, administration, hour, india, law, format
+  T8: pcs, export, shipment, import, send, logistic_chain, freight_forwarder, italy, import_export, layer, custom_declaration, route
+  T9: smart_port, indicator, smart_technology, smart, resilience, kpi, evaluation, index, weight, expert, driver, service_quality
+  T10: governance, sustainability, digital_transformation, energy, ecosystem, dimension, sustainable, regional, smart_port, transition, region, digitalization
+
+===== k=11 seed=7 =====
+  T0: smart_port, resilience, indicator, evaluation, maturity_model, node, index, matrix, domain, expert, score, driver
+  T1: blockchain, smart_port, blockchain_technology, block, smart_contract, chain, trust, participant, digital_technology, china, maritime_industry, contract
+  T2: governance, barrier, public_private, ecosystem, edi, cluster, region, success, private, knowledge_management, pcs, power
+  T3: sustainability, sustainable, energy, smart_port, criterion, smart, indicator, emission, power, facility, transition, fuel
+  T4: module, nmsw, ict, maritime_transport, pass, montenegro, pcs, prototype, nsw, port_rijeka, mnsw, italy
+  T5: optimization, scheduling, event, crane, truck, modeling, hour, assign, congestion, prediction, constraint, maximum
+  T6: msw, pcs, declaration, send, shipment, submit, import, export, custom_declaration, code, check, format
+  T7: big_data, event, safety, attack, ais, compliance, navigation, kpi, time_window, cybersecurity, dashboard, detection
+  T8: business_model, taxonomy, dimension, cluster, hub, gate, trend, publication, search, academic, topic, wave
+  T9: dimension, digital_transformation, indonesia, port_call, service_quality, measurement, variable, organizational, construct, barrier, outcome, ecosystem
+  T10: smart_technology, port_bar, energy, smart, network_effect, transition, price, eur, electric, green, montenegro, emission
+
+===== k=11 seed=13 =====
+  T0: pcs, module, export, import, send, shipment, prototype, custom_declaration, declaration, store, pass, layer
+  T1: cluster, publication, trend, big_data, theme, search, topic, academic, wave, maritime_logistic, maritime_transport, publish
+  T2: port_call, success, information_sharing, berth, ict, edi, terminal_operator, barrier, shipping_agency, india, manager, generation
+  T3: msw, nmsw, module, agency, nsw, maritime_transport, montenegro, traffic, custom_authority, cross_border, maritime_single_window, documentation
+  T4: event, berth, safety, imo, attack, optimization, port_call, navigation, ais, domain, departure, dock
+  T5: resilience, digital_transformation, barrier, maturity_model, expert, digitalization, digital_technology, measurement, employ, digital_maturity, maturity, organizational
+  T6: sustainability, dimension, business_model, taxonomy, energy, sustainable, port_bar, ecosystem, regional, transition, emission, hub
+  T7: blockchain, blockchain_technology, node, chain, block, pcs, layer, bill_lading, trust, smart_contract, tradelen, freight_forwarder
+  T8: governance, power, private, ict, public_private, region, political, participant, ecosystem, trade_facilitation, agreement, cluster
+  T9: smart_port, service_quality, variable, indicator, index, evaluation, construct, indonesia, weight, score, criterion, construction
+  T10: smart, gate, smart_technology, truck, kpi, vehicle, indicator, container_terminal, scheduling, average, scenario, tos
+
+===== k=12 seed=42 =====
+  T0: port_call, information_sharing, barrier, maritime_transport, berth, arrival, manager, china, digitalization, coordinate, external, responsibility
+  T1: event, attack, safety, compliance, cybersecurity, digital_technology, threat, vulnerability, digital_infrastructure, detection, domain, navigation
+  T2: indonesia, optimization, service_quality, resilience, variable, event, hub, strategic_alliance, average, disruption, construct, employ
+  T3: barrier, terminal_operator, ict, edi, success, power, maturity_model, shipping_line, participant, knowledge_management, political, shipper
+  T4: publication, cluster, trend, academic, big_data, gate, theme, wave, search, topic, publish, attention
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, layer, node, chain, bill_lading, trust, protocol, contract
+  T6: module, nmsw, ict, imo, nsw, traffic, prototype, pass, reporting, enter, vehicle, port_rijeka
+  T7: msw, port_bar, montenegro, trade_facilitation, agency, average, administration, submit, india, format, turkey, entity
+  T8: pcs, export, shipment, import, send, italy, logistic_chain, freight_forwarder, import_export, layer, custom_declaration, digital_platform
+  T9: smart_port, indicator, smart_technology, smart, resilience, kpi, evaluation, index, weight, expert, service_quality, criterion
+  T10: governance, sustainability, digital_transformation, dimension, ecosystem, energy, sustainable, regional, smart_port, region, digitalization, transition
+  T11: taxonomy, business_model, dimension, cluster, digital_platform, respective, value_add, marketplace, geographic_scope, iteration, distinguish, data_analytic
+
+===== k=12 seed=7 =====
+  T0: resilience, indicator, evaluation, smart_port, maturity_model, node, matrix, average, score, disruption, expert, index
+  T1: blockchain, blockchain_technology, block, tradelen, smart_contract, bill_lading, chain, trust, code, protocol, right, contract
+  T2: governance, ecosystem, public_private, cluster, barrier, edi, region, private, success, knowledge_management, participant, political
+  T3: prototype, power, layer, pass, space, server, stack, criterion, vehicle, test, diagram, smart
+  T4: module, nmsw, ict, montenegro, maritime_transport, port_rijeka, mnsw, produce, italy, shipment, croatia, subject
+  T5: optimization, event, scheduling, truck, hour, crane, modeling, assign, congestion, allocation, constraint, prediction
+  T6: msw, pcs, submit, import, send, declaration, reporting, clearance, format, imo, message, port_call
+  T7: event, safety, attack, big_data, compliance, ais, navigation, time_window, cybersecurity, dashboard, terminal_operator, detection
+  T8: business_model, taxonomy, dimension, cluster, hub, publication, trend, search, gate, academic, topic, wave
+  T9: dimension, digital_transformation, indonesia, port_call, variable, barrier, measurement, service_quality, organizational, construct, ecosystem, firm
+  T10: smart_technology, network_effect, smart, optimal, utility, price, direct_benefit, proposition, region, negative, profit, positive
+  T11: smart_port, sustainability, energy, sustainable, smart, port_bar, transition, emission, green, digitalization, maritime_transport, indicator
+
+===== k=12 seed=13 =====
+  T0: pcs, prototype, layer, module, store, pass, entity, format, container_terminal, vehicle, netherlands, test
+  T1: cluster, publication, big_data, trend, theme, topic, academic, search, wave, maritime_logistic, maritime_transport, publish
+  T2: smart_port, port_call, energy, success, information_sharing, berth, terminal_operator, barrier, generation, intelligent, domain, ict
+  T3: msw, nmsw, montenegro, nsw, agency, maritime_single_window, maritime_transport, cross_border, submit, national_single_window, documentation, custom_authority
+  T4: event, berth, optimization, attack, safety, port_call, ais, imo, navigation, scheduling, vulnerability, departure
+  T5: resilience, digital_transformation, barrier, digital_technology, expert, employ, knowledge_management, hub, researcher, digital_infrastructure, validate, evaluation
+  T6: dimension, sustainability, business_model, taxonomy, ecosystem, sustainable, maturity_model, indonesia, maturity, governance, hub, regional
+  T7: blockchain, blockchain_technology, block, bill_lading, node, chain, shipment, tradelen, smart_contract, layer, freight_forwarder, trust
+  T8: governance, power, region, political, private, ict, participant, public_private, trade_facilitation, logistic_community, subject, cluster
+  T9: smart_port, service_quality, variable, indicator, index, evaluation, construct, weight, score, criterion, construction, measurement
+  T10: smart, smart_technology, gate, energy, kpi, truck, port_bar, indicator, vehicle, scheduling, scenario, average
+  T11: pcs, module, export, digital_platform, ict, ship_agent, send, forwarder, clearance, import_export, traffic, cargo_manifest
+
+===== k=13 seed=42 =====
+  T0: port_call, barrier, information_sharing, maritime_transport, berth, knowledge_management, digitalization, manager, arrival, cause, coordinate, outcome
+  T1: event, attack, safety, cybersecurity, digital_technology, compliance, threat, detection, digital_infrastructure, vulnerability, navigation, domain
+  T2: indonesia, service_quality, variable, right, tradelen, construct, optimization, strategic_alliance, hour, invoice, safety_security, berth
+  T3: maturity_model, terminal_operator, ict, success, edi, power, barrier, shipping_line, participant, shipper, political, successful
+  T4: publication, cluster, trend, academic, search, theme, wave, attention, publish, topic, gate, scientific
+  T5: blockchain, blockchain_technology, block, smart_contract, chain, node, layer, bill_lading, trust, contract, protocol, freight_forwarder
+  T6: module, ict, imo, vehicle, port_rijeka, traffic, mnsw, berth, gate, vts, nautical, reporting
+  T7: msw, nmsw, port_bar, montenegro, agency, trade_facilitation, submit, nsw, administration, average, format, india
+  T8: pcs, export, import, shipment, send, custom_declaration, freight_forwarder, italy, day, import_export, digital_platform, forwarder
+  T9: smart_port, indicator, smart_technology, smart, kpi, evaluation, index, resilience, weight, expert, time_window, criterion
+  T10: governance, sustainability, digital_transformation, energy, sustainable, ecosystem, dimension, smart_port, regional, transition, region, digitalization
+  T11: taxonomy, business_model, dimension, ecosystem, cluster, governance, digital_platform, data_quality, marketplace, value_add, geographic_scope, distinguish
+  T12: resilience, hub, layer, smart, big_data, node, optimization, employ, vehicle, scenario, sensor, disruption
+
+===== k=13 seed=7 =====
+  T0: resilience, indicator, evaluation, smart_port, node, maturity_model, average, expert, matrix, disruption, index, score
+  T1: blockchain, blockchain_technology, block, smart_contract, tradelen, bill_lading, chain, trust, contract, seller, node, freight_forwarder
+  T2: governance, region, edi, success, cluster, participant, ecosystem, political, successful, trade_facilitation, agreement, variable
+  T3: pcs, criterion, top, export, export_process, illustrate, maritime_transport, pandemic, investigate, expert, weight, diagram
+  T4: module, nmsw, nsw, montenegro, port_rijeka, mnsw, pass, maritime_transport, croatia, window, enter, ict
+  T5: optimization, gate, truck, event, scheduling, prediction, congestion, crane, simulation, constraint, assign, hour
+  T6: msw, pcs, import, declaration, send, submit, clearance, port_call, ship_agent, imo, reporting, export
+  T7: event, attack, ais, safety, big_data, compliance, navigation, cybersecurity, time_window, dashboard, detection, appointment
+  T8: taxonomy, business_model, cluster, dimension, publication, hub, trend, search, topic, academic, theme, wave
+  T9: dimension, digital_transformation, barrier, indonesia, port_call, variable, service_quality, measurement, ecosystem, construct, information_sharing, organizational
+  T10: smart_technology, network_effect, smart, optimal, utility, direct_benefit, proposition, price, region, negative, profit, positive
+  T11: smart_port, sustainability, energy, sustainable, smart, port_bar, transition, emission, green, digitalization, indicator, facility
+  T12: governance, ict, vehicle, layer, prototype, logistic_chain, public_private, road, pcs, private, gate, power
+
+===== k=13 seed=13 =====
+  T0: msw, prototype, module, pcs, layer, pass, store, database, entity, format, container_terminal, test
+  T1: publication, big_data, theme, cluster, topic, search, wave, maritime_transport, maritime_logistic, scientific, publish, digitalization
+  T2: port_call, information_sharing, success, berth, india, terminal_operator, barrier, outcome, edi, satisfaction, ict, generation
+  T3: governance, regulatory, trend, compliance, cluster, reflect, attention, digital_technology, ecosystem, academic, data_quality, custom_authority
+  T4: event, berth, attack, optimization, safety, imo, port_call, navigation, ais, departure, vulnerability, dock
+  T5: resilience, barrier, hub, expert, production, knowledge_management, evaluation, disruption, driver, validate, employ, relevance
+  T6: sustainability, energy, digital_transformation, sustainable, dimension, indonesia, port_bar, digitalization, emission, maturity, green, transition
+  T7: blockchain, blockchain_technology, block, node, bill_lading, chain, layer, tradelen, smart_contract, shipment, pcs, freight_forwarder
+  T8: governance, power, participant, private, ict, political, trade_facilitation, region, cluster, public_private, subject, logistic_community
+  T9: smart_port, service_quality, variable, indicator, index, construct, evaluation, weight, score, construction, criterion, measurement
+  T10: gate, smart_technology, truck, smart, kpi, vehicle, scheduling, scenario, average, container_terminal, indicator, time_window
+  T11: pcs, export, ship_agent, traffic, send, clearance, ict, digital_platform, reporting, forwarder, cargo_manifest, custom_declaration
+  T12: taxonomy, dimension, business_model, nmsw, module, nsw, montenegro, digital_platform, port_rijeka, mnsw, window, cluster
+
+===== k=14 seed=42 =====
+  T0: port_call, information_sharing, berth, maritime_transport, barrier, right, arrival, china, manager, safety_security, responsibility, digitalization
+  T1: event, attack, safety, cybersecurity, threat, detection, navigation, vulnerability, compliance, digital_infrastructure, cyber_attack, domain
+  T2: service_quality, indonesia, variable, construct, optimization, strategic_alliance, dimension, measurement, hour, berth, transfer, container_terminal
+  T3: barrier, power, maturity_model, terminal_operator, success, edi, ict, shipping_line, knowledge_management, shipper, participant, successful
+  T4: publication, cluster, trend, academic, theme, wave, search, attention, publish, big_data, gate, topic
+  T5: blockchain, blockchain_technology, block, smart_contract, tradelen, chain, bill_lading, node, layer, trust, contract, seller
+  T6: module, ict, vehicle, imo, gate, traffic, port_rijeka, mnsw, enter, vts, administrative, construction
+  T7: nmsw, port_bar, montenegro, emission, energy, average, india, turkey, hour, module, maintenance, berth
+  T8: pcs, export, import, send, shipment, italy, freight_forwarder, custom_declaration, day, import_export, forwarder, digital_platform
+  T9: smart_port, smart_technology, indicator, smart, kpi, resilience, evaluation, index, expert, weight, criterion, time_window
+  T10: governance, sustainability, digital_transformation, ecosystem, sustainable, dimension, energy, regional, region, digitalization, score, smart_port
+  T11: business_model, taxonomy, dimension, cluster, digital_platform, value_add, marketplace, respective, iteration, distinguish, profit, data_analytic
+  T12: hub, resilience, layer, smart, node, optimization, employ, scenario, sensor, disruption, innovative, algorithm
+  T13: msw, maritime_single_window, agency, trade_facilitation, nsw, clearance, international_trade, custom_authority, national_single_window, maritime_transport, reporting, declaration
+
+===== k=14 seed=7 =====
+  T0: blockchain, resilience, node, block, chain, maturity_model, protocol, event, driver, disruption, trust, layer
+  T1: blockchain, blockchain_technology, digital_technology, smart_contract, maritime_industry, iot, cluster, sensor, digitalization, smart_port, smart, trust
+  T2: governance, region, edi, success, cluster, participant, political, successful, variable, logistic_community, foreign_trade, participation
+  T3: nmsw, nsw, montenegro, maritime_transport, trade_facilitation, national_single_window, criterion, window, national_maritime_single, assume, priority, engineering
+  T4: module, port_rijeka, mnsw, croatia, enter, pass, ict, croatian, rijeka, saving, concessionaire, cimis
+  T5: optimization, gate, event, truck, scheduling, prediction, hour, crane, constraint, congestion, simulation, tos
+  T6: msw, pcs, declaration, import, send, submit, custom_declaration, export, ship_agent, format, port_call, shipment
+  T7: safety, attack, event, ais, big_data, navigation, cybersecurity, compliance, marine, maritime_transport, detection, vulnerability
+  T8: taxonomy, business_model, dimension, cluster, hub, trend, publication, search, topic, academic, wave, attention
+  T9: dimension, digital_transformation, barrier, indonesia, port_call, service_quality, measurement, ecosystem, variable, construct, information_sharing, organizational
+  T10: smart_technology, network_effect, smart, optimal, utility, direct_benefit, proposition, price, region, negative, choose, profit
+  T11: smart_port, sustainability, energy, sustainable, smart, port_bar, transition, emission, green, facility, service_quality, criterion
+  T12: governance, ict, layer, pcs, public_private, vehicle, logistic_chain, road, private, power, knowledge_management, space
+  T13: indicator, kpi, evaluation, prototype, index, average, smart_port, time_window, dashboard, calculate, construction, appointment
+
+===== k=14 seed=13 =====
+  T0: msw, ict, prototype, pcs, module, edi, pass, container_terminal, layer, store, vehicle, gate
+  T1: cluster, publication, big_data, theme, search, topic, wave, maritime_transport, maritime_logistic, publish, scientific, digitalization
+  T2: port_call, information_sharing, berth, india, smart_port, barrier, outcome, energy, generation, intelligent, satisfaction, regulatory
+  T3: trend, custom_authority, digital_technology, attention, regulatory, academic, compliance, cross_border, identification, reflect, cluster, examine
+  T4: event, berth, optimization, attack, safety, port_call, imo, ais, navigation, scheduling, departure, vulnerability
+  T5: resilience, barrier, expert, hub, knowledge_management, validate, disruption, driver, employ, relevance, structured, prioritize
+  T6: sustainability, digital_transformation, energy, sustainable, dimension, indonesia, port_bar, digitalization, maturity, regional, green, emission
+  T7: blockchain, blockchain_technology, node, block, chain, pcs, smart_contract, layer, trust, freight_forwarder, destination, hub
+  T8: governance, power, private, public_private, political, ict, participant, region, cluster, trade_facilitation, subject, logistic_community
+  T9: smart_port, service_quality, variable, indicator, index, evaluation, construct, weight, score, construction, criterion, ahp
+  T10: smart_technology, gate, truck, smart, kpi, indicator, scheduling, scenario, vehicle, average, time_window, simulation
+  T11: pcs, export, ship_agent, traffic, send, ict, forwarder, clearance, custom_declaration, freight_forwarder, shipment, cargo_manifest
+  T12: taxonomy, dimension, business_model, nmsw, nsw, montenegro, digital_platform, mnsw, submit, maritime_transport, portbase, agency
+  T13: module, right, governance, tradelen, digital_infrastructure, declaration, netherlands, invoice, ecosystem, port_rijeka, data_quality, safety_security
+
+===== k=15 seed=42 =====
+  T0: port_call, berth, information_sharing, maritime_transport, arrival, manager, cause, reporting, safety, early, map, digitalization
+  T1: event, attack, safety, cybersecurity, navigation, detection, gate, threat, vulnerability, digital_infrastructure, domain, cyber_attack
+  T2: optimization, event, scheduling, hour, berth, assign, crane, modeling, arrival, throughput, allocation, congestion
+  T3: barrier, power, ict, success, edi, terminal_operator, knowledge_management, maturity_model, cluster, shipping_line, participant, shipper
+  T4: cluster, publication, trend, academic, theme, wave, search, publish, big_data, attention, topic, systematic
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, chain, bill_lading, node, layer, code, contract, prototype
+  T6: module, ict, indicator, evaluation, port_rijeka, mnsw, pass, enter, construction, traffic, croatia, index
+  T7: sustainability, energy, nmsw, port_bar, montenegro, emission, sustainable, transition, fuel, green, reduction, berth
+  T8: pcs, export, import, send, shipment, freight_forwarder, italy, custom_declaration, ship_agent, day, import_export, reduction
+  T9: smart_technology, kpi, truck, driver, time_window, smart, appointment, dashboard, variable, indicator, terminal_operator, scenario
+  T10: governance, ecosystem, public_private, netherlands, region, safety_security, cluster, agreement, private, data_quality, data_ecosystem, logistic_community
+  T11: business_model, msw, edi, cybersecurity, cyber_security, digital_platform, asset, taxonomy, marketplace, protocol, hub, dimension
+  T12: resilience, hub, layer, employ, disruption, node, entity, scenario, physical_internet, average, module, intermodal_terminal
+  T13: msw, maritime_single_window, clearance, nsw, agency, trade_facilitation, custom_authority, national_single_window, international_trade, submit, maritime_transport, declaration
+  T14: smart_port, dimension, business_model, digital_transformation, smart, taxonomy, service_quality, indonesia, criterion, variable, ecosystem, sustainability
+
+===== k=15 seed=7 =====
+  T0: blockchain, resilience, node, block, smart_contract, chain, protocol, contract, event, trust, ethereum, driver
+  T1: blockchain, blockchain_technology, digital_technology, digital_transformation, digitalization, smart, smart_port, regulatory, maritime_industry, iot, compliance, documentation
+  T2: governance, edi, region, success, cluster, participant, political, variable, successful, government_agency, logistic_community, agreement
+  T3: criterion, expert, weight, pandemic, priority, shipper, digitalization, structured, focus_group, learn, spanish_port, people
+  T4: module, port_rijeka, mnsw, croatia, croatian, concessionaire, rijeka, intermodal_terminal, pcs, cimis, saving, destination
+  T5: optimization, event, gate, scheduling, truck, scenario, hour, prediction, constraint, simulation, assign, crane
+  T6: pcs, import, send, declaration, custom_declaration, export, berth, shipment, port_call, code, tradelen, freight_forwarder
+  T7: attack, safety, big_data, event, navigation, ais, maritime_transport, marine, vulnerability, india, threat, cybersecurity
+  T8: business_model, taxonomy, dimension, cluster, hub, trend, publication, search, topic, academic, theme, attention
+  T9: dimension, barrier, port_call, indonesia, digital_transformation, ecosystem, measurement, service_quality, construct, variable, information_sharing, maturity
+  T10: smart_technology, smart, network_effect, utility, optimal, proposition, price, direct_benefit, region, negative, profit, positive
+  T11: smart_port, sustainability, energy, sustainable, port_bar, smart, transition, emission, green, service_quality, facility, criterion
+  T12: governance, ict, vehicle, layer, pcs, public_private, logistic_chain, road, private, knowledge_management, shipment, space
+  T13: indicator, kpi, evaluation, pass, prototype, average, index, smart_port, time_window, dashboard, calculate, construction
+  T14: msw, nmsw, nsw, submit, montenegro, agency, maritime_transport, national_single_window, administration, directive, permit, maritime_single_window
+
+===== k=15 seed=13 =====
+  T0: msw, prototype, pcs, pass, module, store, layer, container_terminal, database, day, smart, test
+  T1: cluster, publication, big_data, trend, search, theme, topic, academic, wave, maritime_logistic, publish, attention
+  T2: port_call, berth, information_sharing, india, energy, generation, satisfaction, emission, arrival, coordinate, voyage, regulatory
+  T3: custom_authority, digital_technology, cross_border, compliance, international_trade, documentation, regulatory, legal, electronic_data_exchange, border, single_window_system, wco
+  T4: event, berth, optimization, attack, safety, ais, navigation, scheduling, dock, departure, assign, constraint
+  T5: resilience, disruption, hub, expert, knowledge_management, driver, prioritize, value_chain, ism, employ, evaluation, production
+  T6: sustainability, digital_transformation, energy, sustainable, port_bar, maturity, digitalization, regional, dimension, green, transition, emission
+  T7: blockchain, blockchain_technology, node, block, pcs, chain, smart_contract, layer, freight_forwarder, trust, shipment, destination
+  T8: governance, private, ict, public_private, power, political, region, trade_facilitation, cluster, participant, subject, logistic_community
+  T9: smart_port, indicator, index, evaluation, weight, service_quality, construction, criterion, score, kpi, ahp, key_factor
+  T10: smart_technology, gate, truck, smart, scenario, scheduling, kpi, average, indicator, hour, time_window, simulation
+  T11: pcs, ship_agent, traffic, clearance, reporting, imo, notification, custom_declaration, export, safety, send, domain
+  T12: taxonomy, business_model, dimension, nmsw, nsw, montenegro, digital_platform, mnsw, portbase, window, maritime_transport, community_system
+  T13: module, tradelen, right, governance, digital_infrastructure, declaration, invoice, port_rijeka, netherlands, ecosystem, supplier, data_quality
+  T14: barrier, variable, dimension, service_quality, measurement, firm, success, construct, investigate, shipping_line, ict, terminal_operator
+
+===== k=16 seed=42 =====
+  T0: port_call, berth, information_sharing, arrival, manager, cause, reporting, map, digitalization, voyage, coordinate, early
+  T1: event, attack, safety, detection, gate, vulnerability, domain, digital_infrastructure, navigation, container_handling, cybersecurity, cyber_attack
+  T2: optimization, scheduling, hour, event, modeling, assign, berth, arrival, crane, congestion, allocation, throughput
+  T3: barrier, power, ict, edi, cluster, success, terminal_operator, knowledge_management, maturity_model, shipping_line, participant, shipper
+  T4: cluster, trend, academic, theme, publication, attention, reflect, publish, regulatory, search, blockchain, systematic
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, bill_lading, chain, node, layer, code, contract, trust
+  T6: module, ict, indicator, evaluation, port_rijeka, mnsw, construction, index, matrix, traffic, gate, imo
+  T7: nmsw, energy, port_bar, sustainability, montenegro, emission, fuel, sustainable, maintenance, transition, green, window
+  T8: pcs, export, import, send, shipment, prototype, day, italy, freight_forwarder, custom_declaration, pass, import_export
+  T9: smart_technology, kpi, resilience, time_window, smart, variable, appointment, driver, indicator, dashboard, scenario, region
+  T10: governance, sustainability, ecosystem, public_private, netherlands, safety_security, region, sustainable, agreement, data_quality, private, data_ecosystem
+  T11: cybersecurity, trading, cyber_security, asset, threat, security_measure, training, edi, protection, single_window_system, cyber_threat, breach
+  T12: resilience, hub, layer, employ, node, disruption, entity, scenario, physical_internet, module, average, big_data
+  T13: msw, maritime_single_window, clearance, trade_facilitation, custom_authority, agency, international_trade, nsw, national_single_window, declaration, nautical, digital_technology
+  T14: smart_port, dimension, business_model, digital_transformation, taxonomy, service_quality, indonesia, smart, criterion, variable, ecosystem, measurement
+  T15: big_data, smart, vehicle, wave, publication, topic, maritime_transport, sensor, container_terminal, scientific, rfid, maritime_logistic
+
+===== k=16 seed=7 =====
+  T0: blockchain, resilience, blockchain_technology, node, block, smart_contract, chain, trust, protocol, contract, freight_forwarder, event
+  T1: digital_transformation, digital_technology, governance, regulatory, digitalization, compliance, regional, standardization, institutional, documentation, cross_border, cybersecurity
+  T2: governance, edi, region, success, cluster, participant, variable, political, government_agency, successful, power, logistic_community
+  T3: pcs, criterion, expert, shipper, top, priority, pandemic, digitalization, illustrate, learn, weight, diagram
+  T4: module, port_rijeka, mnsw, croatian, concessionaire, intermodal_terminal, rijeka, croatia, cimis, pcs, physical_internet, destination
+  T5: optimization, event, scheduling, scenario, gate, prediction, hour, assign, modeling, simulation, constraint, crane
+  T6: pcs, import, send, custom_declaration, declaration, berth, export, port_call, imo, code, shipment, tradelen
+  T7: attack, safety, event, navigation, big_data, marine, maritime_transport, ais, vulnerability, threat, cybersecurity, india
+  T8: business_model, taxonomy, cluster, dimension, hub, publication, trend, academic, search, topic, theme, wave
+  T9: dimension, barrier, indonesia, port_call, ecosystem, measurement, maturity_model, service_quality, construct, variable, information_sharing, digital_transformation
+  T10: smart_technology, network_effect, smart, utility, optimal, proposition, price, direct_benefit, region, negative, positive, profit
+  T11: sustainability, energy, sustainable, port_bar, transition, emission, green, facility, fuel, digitalisation, energy_efficiency, indicator
+  T12: ict, governance, vehicle, layer, public_private, logistic_chain, road, pcs, private, knowledge_management, shipment, space
+  T13: indicator, kpi, prototype, average, pass, gate, time_window, evaluation, dashboard, appointment, attribute, truck
+  T14: msw, nmsw, nsw, submit, montenegro, agency, maritime_transport, maritime_single_window, national_single_window, administration, directive, member_state
+  T15: smart_port, smart, service_quality, safety, intelligent, index, evaluation, participant, criterion, sensor, weight, domain
+
+===== k=16 seed=13 =====
+  T0: msw, prototype, pass, pcs, module, store, submit, database, day, test, turkey, japan
+  T1: cluster, publication, big_data, search, theme, topic, wave, maritime_logistic, publish, maritime_transport, scientific, barrier
+  T2: port_call, information_sharing, india, berth, energy, generation, satisfaction, regulatory, intelligent, coordinate, transition, emission
+  T3: trend, attention, cluster, ict, traffic, republic_croatia, academic, funding, croatian, fund_project, seaport_cluster, croatian_seaport
+  T4: berth, event, imo, port_call, optimization, safety, ais, hour, departure, nautical, arrival, dock
+  T5: resilience, disruption, expert, driver, prioritize, value_chain, pandemic, matrix, production, facility, yes, team
+  T6: sustainability, digital_transformation, energy, sustainable, port_bar, dimension, digitalization, regional, maturity, green, transition, indonesia
+  T7: blockchain, blockchain_technology, block, chain, node, smart_contract, freight_forwarder, pcs, bill_lading, contract, trust, storage
+  T8: governance, private, ict, public_private, power, political, region, trade_facilitation, cluster, logistic_community, custom_document, subject
+  T9: smart_port, indicator, evaluation, index, weight, service_quality, criterion, construction, ahp, kpi, score, key_factor
+  T10: smart_technology, gate, truck, smart, average, scenario, kpi, scheduling, indicator, simulation, time_window, vehicle
+  T11: pcs, traffic, road, export, custom_declaration, knowledge_management, shipment, digital_platform, terminal_operator, italy, import_export, ship_agent
+  T12: taxonomy, business_model, dimension, nmsw, nsw, montenegro, digital_platform, maritime_transport, mnsw, window, national_single_window, community_system
+  T13: module, governance, right, tradelen, digital_infrastructure, ecosystem, legal, custom_authority, netherlands, risk_management, port_rijeka, invoice
+  T14: variable, barrier, dimension, service_quality, measurement, firm, construct, success, investigate, ict, shipping_line, terminal_operator
+  T15: hub, attack, layer, cybersecurity, threat, vulnerability, detection, cyber_attack, node, destination, domain, intermodal_terminal
+
+===== k=17 seed=42 =====
+  T0: port_call, berth, information_sharing, arrival, manager, cause, reporting, map, early, voyage, coordinate, domain
+  T1: event, attack, safety, gate, vulnerability, threat, cybersecurity, navigation, domain, detection, container_handling, digital_infrastructure
+  T2: optimization, scheduling, hour, event, assign, berth, modeling, crane, arrival, congestion, throughput, prediction
+  T3: barrier, power, edi, success, ict, terminal_operator, cluster, knowledge_management, maturity_model, participant, shipping_line, shipper
+  T4: cluster, trend, academic, theme, publication, attention, reflect, publish, regulatory, search, digital_twin, systematic
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, bill_lading, chain, node, layer, contract, trust, code
+  T6: module, ict, indicator, evaluation, port_rijeka, mnsw, vehicle, construction, index, gate, enter, traffic
+  T7: sustainability, nmsw, energy, port_bar, montenegro, emission, sustainable, transition, fuel, green, maintenance, saving
+  T8: pcs, export, import, send, prototype, shipment, day, italy, freight_forwarder, pass, custom_declaration, ship_agent
+  T9: smart_technology, kpi, time_window, resilience, smart, driver, appointment, variable, dashboard, indicator, scenario, attribute
+  T10: governance, ecosystem, public_private, netherlands, safety_security, region, trade_facilitation, agreement, private, data_quality, data_ecosystem, cluster
+  T11: business_model, digital_platform, marketplace, taxonomy, cyber_security, cybersecurity, hub, asset, dimension, intermodal, base, interviewee
+  T12: resilience, hub, layer, employ, disruption, node, entity, scenario, physical_internet, average, destination, intermodal_terminal
+  T13: msw, maritime_single_window, nsw, clearance, agency, national_single_window, imo, reporting, maritime_transport, directive, nautical, declaration
+  T14: smart_port, dimension, business_model, digital_transformation, taxonomy, service_quality, indonesia, smart, criterion, ecosystem, variable, sustainability
+  T15: big_data, smart, wave, publication, vehicle, maritime_transport, topic, maritime_logistic, sensor, container_terminal, scientific, rfid
+  T16: digital_technology, custom_authority, cross_border, international_trade, edi, single_window_system, trading, compliance, wco, violation, modern, customs
+
+===== k=17 seed=7 =====
+  T0: blockchain, resilience, blockchain_technology, node, block, smart_contract, chain, trust, protocol, contract, freight_forwarder, event
+  T1: digital_transformation, digital_technology, governance, regulatory, compliance, regional, digitalization, standardization, institutional, documentation, cross_border, readiness
+  T2: governance, edi, region, success, participant, variable, cluster, political, power, successful, logistic_community, participation
+  T3: pcs, criterion, expert, barrier, top, priority, illustrate, pandemic, weight, diagram, digitalization, generation
+  T4: module, port_rijeka, mnsw, croatia, concessionaire, croatian, rijeka, intermodal_terminal, pcs, cimis, destination, physical_internet
+  T5: optimization, event, scheduling, scenario, hour, prediction, assign, modeling, constraint, allocation, maximum, crane
+  T6: pcs, import, send, custom_declaration, declaration, berth, port_call, export, code, shipment, format, tradelen
+  T7: attack, safety, navigation, event, big_data, marine, vulnerability, ais, cybersecurity, threat, maritime_transport, india
+  T8: business_model, taxonomy, cluster, dimension, hub, publication, trend, academic, search, topic, theme, wave
+  T9: dimension, port_call, indonesia, barrier, digital_transformation, measurement, maturity_model, ecosystem, service_quality, construct, variable, maturity
+  T10: smart_technology, network_effect, smart, utility, proposition, optimal, price, direct_benefit, positive, region, negative, choose
+  T11: sustainability, energy, sustainable, port_bar, emission, transition, green, facility, fuel, digitalisation, energy_efficiency, digitalization
+  T12: ict, vehicle, layer, public_private, logistic_chain, road, pcs, gate, knowledge_management, shipment, space, terminal_operator
+  T13: indicator, kpi, average, pass, prototype, time_window, evaluation, gate, dashboard, appointment, attribute, export
+  T14: msw, nmsw, nsw, submit, montenegro, agency, maritime_transport, national_single_window, maritime_single_window, administration, directive, member_state
+  T15: smart_port, smart, service_quality, safety, intelligent, participant, criterion, evaluation, index, sensor, weight, domain
+  T16: governance, netherlands, port_rotterdam, dutch, rotterdam, ecosystem, governance_model, shareholder, pay, landlord, private, revenue
+
+===== k=17 seed=13 =====
+  T0: msw, prototype, pcs, module, store, pass, administration, test, database, turkey, permit, japan
+  T1: cluster, publication, big_data, theme, topic, wave, search, maritime_transport, maritime_logistic, scientific, barrier, publish
+  T2: port_call, information_sharing, berth, regulatory, manager, arrival, behavior, outcome, satisfaction, barrier, configuration, coordinate
+  T3: ict, traffic, croatia, croatian, enter, tos, modern, republic_croatia, saving, container_terminal, seaport_cluster, croatian_seaport
+  T4: berth, imo, event, safety, optimization, port_call, ais, navigation, departure, nautical, movement, dock
+  T5: resilience, disruption, expert, driver, prioritize, value_chain, structured, production, matrix, yes, ism, facility
+  T6: digital_transformation, dimension, sustainability, port_bar, maturity, energy, ecosystem, indonesia, digital_maturity, sustainable, digital_technology, digitalization
+  T7: blockchain, blockchain_technology, block, chain, bill_lading, tradelen, freight_forwarder, smart_contract, node, pcs, custom_declaration, contract
+  T8: governance, private, region, power, ict, public_private, political, trade_facilitation, cluster, participant, logistic_community, subject
+  T9: indicator, smart_port, evaluation, index, weight, kpi, score, construction, ahp, matrix, calculate, criterion
+  T10: gate, truck, vehicle, average, scheduling, hour, kpi, simulation, indicator, time_window, scenario, export
+  T11: pcs, knowledge_management, road, export, italy, digital_platform, traffic, produce, terminal_operator, maturity_model, code, import_export
+  T12: taxonomy, business_model, nmsw, dimension, nsw, montenegro, digital_platform, mnsw, maritime_transport, submit, window, national_single_window
+  T13: module, governance, custom_authority, legal, documentation, ecosystem, risk_management, port_rijeka, digital_technology, supplier, regulatory, production
+  T14: variable, service_quality, barrier, success, firm, measurement, construct, ict, investigate, shipping_line, test, edi
+  T15: hub, attack, layer, cybersecurity, threat, vulnerability, detection, cyber_attack, domain, node, physical_internet, resilience
+  T16: smart_port, sustainability, smart, smart_technology, energy, trend, sustainable, attention, academic, green, assessment, intelligent
+
+===== k=18 seed=42 =====
+  T0: port_call, information_sharing, manager, barrier, berth, cause, outcome, arrival, maritime_transport, digitalization, coordinate, pandemic
+  T1: event, attack, gate, safety, vulnerability, cybersecurity, navigation, domain, detection, digital_infrastructure, container_handling, truck
+  T2: optimization, scheduling, event, hour, assign, berth, arrival, crane, congestion, allocation, modeling, constraint
+  T3: barrier, ict, edi, terminal_operator, success, knowledge_management, maturity_model, shipping_line, cluster, shipper, participant, successful
+  T4: cluster, trend, academic, theme, publication, attention, regulatory, publish, reflect, search, blockchain, systematic
+  T5: blockchain, blockchain_technology, block, tradelen, smart_contract, bill_lading, chain, node, layer, code, contract, trust
+  T6: module, indicator, evaluation, port_rijeka, mnsw, index, smart_port, construction, cause, croatian, cimis, enter
+  T7: sustainability, nmsw, energy, port_bar, montenegro, emission, sustainable, kpi, transition, fuel, green, maintenance
+  T8: pcs, export, import, shipment, send, prototype, day, italy, freight_forwarder, check, custom_declaration, import_export
+  T9: smart_technology, resilience, time_window, appointment, driver, variable, smart, dashboard, scenario, kpi, network_effect, attribute
+  T10: governance, ecosystem, public_private, netherlands, region, trade_facilitation, private, agreement, safety_security, power, data_quality, data_ecosystem
+  T11: business_model, cyber_security, cybersecurity, asset, blockchain, threat, security_measure, edi, digital_platform, trust, breach, protocol
+  T12: resilience, hub, layer, employ, node, disruption, entity, physical_internet, destination, scenario, average, intermodal_terminal
+  T13: taxonomy, geographic_scope, enterprise, engineering, soa, service_orient, illustrate, specification, business_model, language, object, vtis
+  T14: smart_port, dimension, business_model, digital_transformation, service_quality, indonesia, smart, ecosystem, variable, criterion, sustainability, measurement
+  T15: big_data, smart, vehicle, wave, publication, topic, container_terminal, sensor, maritime_logistic, rfid, scientific, maritime_transport
+  T16: digital_technology, custom_authority, cross_border, international_trade, single_window_system, trading, compliance, cybersecurity, wco, regional, violation, modern
+  T17: msw, imo, ict, nsw, port_call, maritime_single_window, agency, reporting, national_single_window, berth, clearance, member_state
+
+===== k=18 seed=7 =====
+  T0: blockchain, blockchain_technology, resilience, block, smart_contract, node, chain, trust, protocol, contract, freight_forwarder, event
+  T1: governance, digital_transformation, digital_technology, regulatory, compliance, regional, cross_border, standardization, institutional, safety, custom_authority, documentation
+  T2: governance, edi, region, success, variable, cluster, participant, successful, power, logistic_community, institution, container_terminal
+  T3: barrier, criterion, expert, shipper, priority, digitalization, pandemic, focus_group, learn, weight, people, structured
+  T4: module, port_rijeka, mnsw, rijeka, intermodal_terminal, concessionaire, croatian, croatia, cimis, republic_croatia, physical_internet, saving
+  T5: optimization, event, scheduling, hour, scenario, modeling, assign, prediction, berth, maximum, constraint, crane
+  T6: pcs, import, send, declaration, custom_declaration, shipment, berth, format, port_call, export, code, imo
+  T7: attack, navigation, safety, event, big_data, maritime_transport, marine, cybersecurity, vulnerability, india, threat, cyber_attack
+  T8: taxonomy, business_model, dimension, hub, resilience, digital_platform, cluster, value_add, marketplace, geographic_scope, data_analytic, respective
+  T9: dimension, port_call, indonesia, digital_transformation, ecosystem, measurement, construct, maturity_model, maturity, information_sharing, service_quality, variable
+  T10: smart_technology, network_effect, smart, utility, optimal, proposition, direct_benefit, price, region, choose, positive, negative
+  T11: sustainability, energy, sustainable, port_bar, emission, transition, green, fuel, facility, energy_efficiency, environmental_impact, indicator
+  T12: ict, vehicle, gate, logistic_chain, pcs, road, space, knowledge_management, engineering, layer, sensor, code
+  T13: indicator, kpi, prototype, average, pass, time_window, evaluation, dashboard, appointment, gate, calculate, attribute
+  T14: msw, nmsw, nsw, submit, montenegro, agency, maritime_transport, national_single_window, administration, directive, maritime_single_window, organisation
+  T15: smart_port, smart, service_quality, safety, intelligent, participant, criterion, weight, evaluation, index, sensor, ahp
+  T16: governance, public_private, netherlands, port_rotterdam, dutch, rotterdam, private, governance_model, shareholder, revenue, argue, landlord
+  T17: cluster, publication, trend, academic, theme, topic, search, wave, publish, attention, iot, digitalization
+
+===== k=18 seed=13 =====
+  T0: msw, prototype, pass, pcs, module, store, test, turkey, format, permit, japan, administration
+  T1: publication, cluster, big_data, theme, topic, wave, search, maritime_transport, maritime_logistic, scientific, publish, digitalization
+  T2: port_call, information_sharing, berth, regulatory, manager, behavior, arrival, configuration, outcome, satisfaction, barrier, coordinate
+  T3: ict, traffic, tos, croatia, croatian, container_terminal, modern, republic_croatia, enter, saving, seaport_cluster, croatian_seaport
+  T4: berth, imo, event, safety, port_call, optimization, ais, navigation, departure, nautical, dock, movement
+  T5: resilience, disruption, expert, driver, prioritize, value_chain, production, yes, facility, matrix, ism, event
+  T6: sustainability, digital_transformation, port_bar, energy, dimension, sustainable, maturity, digital_maturity, emission, transition, regional, indonesia
+  T7: blockchain, blockchain_technology, block, chain, tradelen, bill_lading, smart_contract, freight_forwarder, node, pcs, contract, trust
+  T8: governance, private, region, ict, power, political, trade_facilitation, public_private, participant, logistic_community, cluster, subject
+  T9: indicator, smart_port, evaluation, weight, index, kpi, ahp, construction, score, criterion, matrix, calculate
+  T10: gate, truck, vehicle, average, scheduling, hour, kpi, simulation, indicator, time_window, scenario, optimization
+  T11: pcs, export, knowledge_management, road, traffic, italy, ship_agent, produce, import_export, maturity_model, terminal_operator, code
+  T12: taxonomy, business_model, nmsw, dimension, nsw, montenegro, digital_platform, portbase, mnsw, submit, maritime_transport, window
+  T13: module, governance, custom_authority, legal, ecosystem, documentation, risk_management, port_rijeka, digital_technology, supplier, digital_infrastructure, production
+  T14: variable, barrier, dimension, measurement, service_quality, firm, construct, success, ict, investigate, shipping_line, indonesia
+  T15: hub, attack, layer, cybersecurity, threat, vulnerability, detection, cyber_attack, domain, node, shipment, entity
+  T16: smart_port, smart, smart_technology, trend, energy, sustainability, attention, academic, sustainable, intelligent, green, assessment
+  T17: euro, governance, nmsw, blockchain, importer, sensor, montenegro, region, exporter, dimension, contract, ecosystem
+
+===== k=19 seed=42 =====
+  T0: port_call, information_sharing, china, berth, barrier, manager, cause, right, arrival, invoice, outcome, pandemic
+  T1: event, attack, domain, safety, detection, custom_declaration, vulnerability, digital_infrastructure, threat, cybersecurity, code, risk_assessment
+  T2: optimization, scheduling, event, hour, berth, assign, arrival, congestion, crane, allocation, throughput, modeling
+  T3: barrier, ict, edi, success, terminal_operator, shipping_line, power, maturity_model, participant, shipper, respect, knowledge_management
+  T4: cluster, trend, academic, publication, gate, attention, regulatory, wave, reflect, publish, search, theme
+  T5: blockchain, blockchain_technology, block, smart_contract, bill_lading, chain, node, layer, tradelen, contract, trust, freight_forwarder
+  T6: module, indicator, evaluation, port_rijeka, mnsw, smart_port, index, construction, cimis, concessionaire, croatian, rijeka
+  T7: sustainability, nmsw, energy, port_bar, montenegro, sustainable, emission, transition, green, saving, maintenance, fuel
+  T8: pcs, export, prototype, send, shipment, import, day, italy, freight_forwarder, road, ship_agent, pass
+  T9: smart_technology, resilience, kpi, time_window, appointment, driver, variable, smart, dashboard, scenario, network_effect, attribute
+  T10: governance, ecosystem, public_private, netherlands, trade_facilitation, private, agreement, cluster, data_quality, data_ecosystem, participate, power
+  T11: business_model, digital_platform, marketplace, taxonomy, hub, cyber_security, asset, dimension, cybersecurity, interviewee, base, intermodal
+  T12: resilience, hub, layer, employ, node, disruption, entity, physical_internet, scenario, average, module, intermodal_terminal
+  T13: taxonomy, geographic_scope, enterprise, soa, illustrate, engineering, service_orient, specification, language, business_model, maritime_transport, vtis
+  T14: smart_port, dimension, business_model, digital_transformation, service_quality, indonesia, smart, taxonomy, criterion, variable, ecosystem, sustainability
+  T15: big_data, smart, vehicle, sensor, publication, maritime_logistic, rfid, intelligent, scientific, navigation, optimization, mobility
+  T16: custom_authority, digital_technology, cross_border, international_trade, single_window_system, compliance, violation, wco, trading, modern, edi, regional
+  T17: msw, ict, imo, nsw, port_call, maritime_single_window, agency, reporting, national_single_window, clearance, berth, member_state
+  T18: maritime_transport, digitalization, pcs, digital_technology, japan, topic, economy, theme, successful, numerous, maritime_industry, government_agency
+
+===== k=19 seed=7 =====
+  T0: blockchain, blockchain_technology, block, resilience, smart_contract, node, chain, trust, protocol, contract, freight_forwarder, ethereum
+  T1: digital_transformation, governance, digital_technology, regulatory, compliance, regional, standardization, safety, region, institutional, documentation, readiness
+  T2: edi, governance, region, success, participant, variable, cluster, political, successful, logistic_community, power, ict
+  T3: criterion, expert, priority, weight, pandemic, structured, digitalization, spanish_port, learn, score, artificial_intelligence, digital_transformation
+  T4: module, port_rijeka, mnsw, concessionaire, croatian, rijeka, intermodal_terminal, croatia, cimis, pcs, republic_croatia, physical_internet
+  T5: optimization, event, scheduling, hour, modeling, constraint, assign, maximum, berth, scenario, simulation, allocation
+  T6: pcs, berth, declaration, port_call, format, send, imo, arrival, message, tradelen, check, container_terminal
+  T7: attack, big_data, navigation, safety, maritime_transport, marine, vulnerability, cybersecurity, threat, india, event, cyber_attack
+  T8: taxonomy, dimension, business_model, hub, resilience, cluster, layer, disruption, marketplace, value_add, respective, data_analytic
+  T9: dimension, barrier, indonesia, port_call, digital_transformation, ecosystem, construct, maturity_model, service_quality, maturity, variable, information_sharing
+  T10: smart_technology, smart, network_effect, utility, optimal, proposition, direct_benefit, price, region, positive, choose, negative
+  T11: sustainability, energy, sustainable, port_bar, emission, transition, green, saving, fuel, facility, energy_efficiency, indicator
+  T12: vehicle, gate, logistic_chain, knowledge_management, space, road, engineering, sensor, ict, enterprise, scenario, distribute
+  T13: indicator, kpi, prototype, average, pass, time_window, dashboard, evaluation, appointment, gate, attribute, calculate
+  T14: msw, nmsw, nsw, submit, agency, montenegro, maritime_transport, portbase, administration, national_single_window, directive, turkey
+  T15: smart_port, smart, service_quality, safety, intelligent, participant, criterion, weight, evaluation, sensor, ahp, index
+  T16: governance, public_private, port_rotterdam, netherlands, dutch, private, rotterdam, ecosystem, governance_model, shareholder, pay, landlord
+  T17: cluster, publication, trend, theme, academic, topic, wave, search, publish, attention, iot, digitalization
+  T18: export, pcs, digital_platform, freight_forwarder, ict, italy, import, shipping_agency, shipment, custom_document, produce, terminal_operator
+
+===== k=19 seed=13 =====
+  T0: msw, prototype, module, pcs, pass, format, store, test, day, administration, database, turkey
+  T1: publication, big_data, cluster, theme, topic, wave, maritime_transport, search, maritime_logistic, scientific, publish, digitalization
+  T2: port_call, information_sharing, berth, regulatory, satisfaction, outcome, manager, behavior, arrival, configuration, coordinate, barrier
+  T3: ict, traffic, croatian, croatia, republic_croatia, container_terminal, tos, modern, enter, seaport_cluster, croatian_seaport, database
+  T4: berth, imo, event, port_call, safety, optimization, ais, navigation, departure, nautical, dock, movement
+  T5: resilience, expert, driver, disruption, prioritize, value_chain, facility, yes, production, cod, web, ism
+  T6: sustainability, port_bar, energy, sustainable, emission, transition, green, energy_efficiency, eur, electric, social, sustainable_development
+  T7: blockchain, blockchain_technology, block, chain, tradelen, node, bill_lading, smart_contract, freight_forwarder, pcs, custom_declaration, code
+  T8: governance, region, ict, logistic_community, custom_document, private, cluster, trade_facilitation, subject, import, colombia, comercio
+  T9: indicator, smart_port, evaluation, weight, index, kpi, construction, score, ahp, service_quality, matrix, criterion
+  T10: gate, truck, average, vehicle, scheduling, hour, kpi, simulation, indicator, optimization, scenario, time_window
+  T11: pcs, digital_platform, road, maturity_model, traffic, shipping_agency, produce, import_export, italy, reporting, terminal_operator, regard
+  T12: taxonomy, business_model, nmsw, dimension, nsw, montenegro, digital_platform, mnsw, national_single_window, maritime_transport, window, cluster
+  T13: module, governance, custom_authority, legal, port_rijeka, digital_technology, risk_management, documentation, digital_infrastructure, regulatory, supplier, data_ecosystem
+  T14: variable, indonesia, service_quality, success, construct, ict, firm, edi, dimension, test, strategic_alliance, iii
+  T15: hub, attack, layer, cybersecurity, vulnerability, detection, threat, cyber_attack, node, resilience, domain, edge
+  T16: smart_port, smart, digital_transformation, smart_technology, sustainability, trend, energy, assessment, attention, sustainable, academic, broad
+  T17: euro, exporter, exporter_importer, importer, bureau, governance, importer_exporter, cumulative, nmsw, region, blockchain, standardize
+  T18: dimension, barrier, ecosystem, power, governance, participant, investigate, maturity, export, measurement, digital_transformation, knowledge_management
+
+===== k=20 seed=42 =====
+  T0: port_call, information_sharing, right, invoice, china, berth, manager, arrival, shipment, outcome, early, barrier
+  T1: event, attack, safety, domain, digital_infrastructure, vulnerability, threat, cybersecurity, navigation, detection, container_handling, detect
+  T2: optimization, event, scheduling, hour, berth, assign, crane, modeling, arrival, allocation, throughput, assignment
+  T3: barrier, ict, edi, power, success, terminal_operator, tradelen, knowledge_management, declaration, respect, shipping_line, shipper
+  T4: cluster, trend, academic, publication, attention, regulatory, reflect, search, theme, publish, digital_twin, wave
+  T5: blockchain, blockchain_technology, block, smart_contract, chain, prototype, node, layer, bill_lading, contract, trust, protocol
+  T6: module, indicator, evaluation, smart_port, index, port_rijeka, mnsw, construction, pass, cimis, concessionaire, croatian
+  T7: sustainability, nmsw, energy, port_bar, montenegro, emission, sustainable, saving, transition, maintenance, green, fuel
+  T8: pcs, export, send, import, shipment, italy, freight_forwarder, ict, road, ship_agent, forwarder, reduction
+  T9: smart_technology, gate, truck, time_window, smart, appointment, kpi, scheduling, dashboard, terminal_operator, network_effect, variable
+  T10: governance, ecosystem, public_private, netherlands, cluster, agreement, private, sustainability, trade_facilitation, data_quality, region, data_ecosystem
+  T11: business_model, digital_platform, marketplace, hub, taxonomy, dimension, asset, cyber_security, intermodal, interviewee, cybersecurity, base
+  T12: hub, layer, employ, node, entity, scenario, destination, module, prediction, physical_internet, average, simulation
+  T13: taxonomy, geographic_scope, enterprise, engineering, soa, illustrate, service_orient, specification, language, maritime_transport, modeling, business_model
+  T14: smart_port, dimension, business_model, digital_transformation, service_quality, taxonomy, indonesia, smart, variable, sustainability, ecosystem, criterion
+  T15: big_data, smart, vehicle, publication, maritime_logistic, sensor, intelligent, scientific, navigation, optimization, mobility, wave
+  T16: custom_authority, digital_technology, cross_border, international_trade, compliance, single_window_system, cybersecurity, wco, violation, trading, modern, edi
+  T17: msw, imo, nsw, port_call, agency, ict, maritime_single_window, reporting, national_single_window, clearance, berth, declaration
+  T18: maritime_transport, digitalization, pcs, japan, digital_technology, topic, theme, economy, successful, numerous, maritime_industry, focal_point
+  T19: resilience, disruption, pandemic, prioritize, driver, ism, expert, recovery, cause, event, variant, backup
+
+===== k=20 seed=7 =====
+  T0: blockchain, blockchain_technology, block, smart_contract, resilience, chain, node, protocol, trust, contract, freight_forwarder, validation
+  T1: digital_transformation, digital_technology, governance, regional, regulatory, compliance, region, digitalization, standardization, custom_authority, institutional, readiness
+  T2: governance, edi, region, variable, success, cluster, participant, political, successful, ict, logistic_community, power
+  T3: barrier, criterion, expert, priority, digitalization, learn, shipper, pandemic, weight, focus_group, people, structured
+  T4: module, port_rijeka, mnsw, concessionaire, croatian, rijeka, intermodal_terminal, croatia, cimis, pcs, republic_croatia, physical_internet
+  T5: optimization, event, scheduling, hour, modeling, constraint, assign, maximum, allocation, solve, average, crane
+  T6: pcs, send, berth, declaration, port_call, import, message, arrival, format, check, traffic, imo
+  T7: attack, safety, navigation, big_data, event, cybersecurity, threat, marine, vulnerability, india, ais, cyber_attack
+  T8: hub, resilience, gate, layer, disruption, simulation, dimension, employ, scenario, node, destination, paradigm
+  T9: dimension, indonesia, port_call, ecosystem, measurement, digital_transformation, construct, maturity_model, service_quality, information_sharing, maturity, organizational
+  T10: smart_technology, network_effect, smart, utility, proposition, optimal, price, direct_benefit, region, positive, choose, profit
+  T11: sustainability, energy, sustainable, port_bar, emission, transition, green, saving, fuel, energy_efficiency, facility, environmental_impact
+  T12: vehicle, logistic_chain, knowledge_management, road, code, space, power, documentation, distribute, collaborative, cloud, production
+  T13: indicator, kpi, evaluation, average, index, time_window, dashboard, appointment, calculate, variable, attribute, construction
+  T14: msw, nmsw, nsw, submit, agency, montenegro, maritime_transport, portbase, administration, national_single_window, maritime_single_window, turkey
+  T15: smart_port, smart, service_quality, safety, intelligent, sensor, participant, criterion, ahp, weight, iot, domain
+  T16: governance, port_rotterdam, netherlands, public_private, dutch, rotterdam, private, ecosystem, governance_model, shareholder, pay, landlord
+  T17: cluster, publication, trend, theme, academic, topic, wave, search, publish, attention, blockchain, digitalization
+  T18: taxonomy, business_model, dimension, digital_platform, ict, freight_forwarder, italy, export, custom_document, value_add, shipping_agency, produce
+  T19: prototype, pass, engineering, test, pcs, layer, soa, scenario, maritime_transport, illustrate, top, service_orient
+
+===== k=20 seed=13 =====
+  T0: msw, prototype, module, pass, pcs, directive, format, submit, administration, store, test, permit
+  T1: publication, big_data, topic, theme, cluster, wave, search, maritime_transport, maritime_logistic, scientific, publish, digitalization
+  T2: port_call, berth, information_sharing, regulatory, outcome, manager, behavior, satisfaction, arrival, transition, barrier, coordinate
+  T3: ict, traffic, croatia, croatian, republic_croatia, tos, modern, container_terminal, enter, croatian_seaport, seaport_cluster, oversight
+  T4: berth, imo, event, safety, optimization, port_call, ais, departure, nautical, dock, movement, crane
+  T5: resilience, disruption, hub, expert, prioritize, driver, employ, ism, edge, priority, cause, experiment
+  T6: digital_technology, pcs, digitalization, class, shipper, north, transport_sector, compliance, union, panama, threat, economy
+  T7: blockchain, blockchain_technology, block, chain, tradelen, bill_lading, smart_contract, freight_forwarder, pcs, node, custom_declaration, code
+  T8: governance, ict, region, import, custom_document, logistic_community, cluster, trade_facilitation, private, subject, colombia, shipment
+  T9: indicator, evaluation, smart_port, index, weight, kpi, construction, score, calculate, ahp, matrix, equation
+  T10: gate, truck, vehicle, scheduling, hour, average, simulation, kpi, indicator, terminal_operator, tos, time_window
+  T11: pcs, digital_platform, maturity_model, portbase, road, import_export, shipping_agency, traffic, indeed, domain, reporting, italy
+  T12: taxonomy, business_model, nmsw, dimension, nsw, montenegro, maritime_transport, mnsw, national_single_window, digital_platform, window, cluster
+  T13: module, governance, custom_authority, legal, port_rijeka, risk_management, documentation, supplier, data_ecosystem, dutch, regulatory, production
+  T14: variable, indonesia, service_quality, construct, dimension, strategic_alliance, test, firm, iii, container_terminal, score, criterion
+  T15: attack, layer, cybersecurity, hub, vulnerability, detection, cyber_attack, threat, domain, protection, entity, shipment
+  T16: smart_port, smart, smart_technology, digital_transformation, trend, academic, attention, cluster, assessment, service_quality, region, growth
+  T17: nmsw, governance, sensor, blockchain, montenegro, euro, contract, business_model, region, cluster, importer, rfid
+  T18: dimension, barrier, ecosystem, governance, power, digital_transformation, participant, investigate, maturity, export, digital_maturity, partner
+  T19: sustainability, energy, port_bar, sustainable, emission, transition, green, facility, regional, edi, success, production

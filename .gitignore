@@ -1,0 +1,43 @@
+# ============================================================
+# .gitignore — pipeline LDA (digitalização portuária)
+# ============================================================
+
+# --- COPYRIGHT: texto dos 125 artigos (paywall) --------------
+# Nem o texto extraído, nem a sua versão tokenizada/lematizada
+# podem ser publicados num repositório público. São regeneráveis
+# a partir dos PDFs originais com os passos 01–02 do pipeline.
+data/raw_text/
+data/tokens.json
+ponto2_robustez/data_variants/
+
+# --- Corpus de entrada (PDFs do utilizador, não distribuídos) -
+LDA_PAPERS/
+
+# --- Documentos Word (.docx) — nenhum é publicado ------------
+# Todos os .docx (privados de trabalho e gerados pelo código:
+# relatório, apêndices) ficam no disco local, fora do repositório.
+*.docx
+
+# --- Outros ficheiros de trabalho (não publicados) -----------
+ponto2_robustez/README_robustness_GitHub.md
+ponto2_robustez/scripts/r06_build_docx.js
+
+# --- Python ---------------------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# --- Lixo do Windows / Office --------------------------------
+desktop.ini
+Thumbs.db
+~$*
+*.tmp
+
+# --- macOS (por precaução) ------------------------------------
+.DS_Store
+
+# --- IDEs ------------------------------------------------------
+.vscode/
+.idea/

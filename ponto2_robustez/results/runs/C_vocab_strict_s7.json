@@ -1,0 +1,64 @@
+{
+  "run_id": "C_vocab_strict_s7",
+  "axis": "C_prepro",
+  "variant": "vocab_strict",
+  "k": 12,
+  "seed": 7,
+  "n_terms": 2465,
+  "n_common_vocab": 2465,
+  "cv": 0.37849589515141696,
+  "mean_js_to_matched_ref": 0.505415789783001,
+  "mean_top10_overlap_with_ref": 0.25,
+  "layers_by_topic": {
+    "0": "institutional",
+    "1": "technology",
+    "2": "operational",
+    "3": "institutional",
+    "4": "technology",
+    "5": "institutional",
+    "6": "institutional",
+    "7": "institutional",
+    "8": "operational",
+    "9": "technology",
+    "10": "operational",
+    "11": "technology"
+  },
+  "table_pct": {
+    "operational": {
+      "2007-2014": 54.53153168067123,
+      "2015-2018": 59.04514202295103,
+      "2019-2022": 42.13583081668831,
+      "2023-2026": 25.459767581264714
+    },
+    "institutional": {
+      "2007-2014": 32.967857360745256,
+      "2015-2018": 28.115686877008557,
+      "2019-2022": 39.66304469020138,
+      "2023-2026": 50.78519243208272
+    },
+    "technology": {
+      "2007-2014": 12.500608261386029,
+      "2015-2018": 12.83916895970833,
+      "2019-2022": 18.20112350395195,
+      "2023-2026": 23.755042030082528
+    },
+    "meta": {
+      "2007-2014": 0.0,
+      "2015-2018": 0.0,
+      "2019-2022": 0.0,
+      "2023-2026": 0.0
+    }
+  },
+  "op_first": 54.53153168067123,
+  "op_last": 25.459767581264714,
+  "op_delta": -29.071764099406515,
+  "op_monotone_decline": false,
+  "inst_first": 32.967857360745256,
+  "inst_last": 50.78519243208272,
+  "inst_delta": 17.81733507133746,
+  "crossover_last_period": true,
+  "tech_delta": 11.254433768696499,
+  "meta_delta": 0.0,
+  "corr_with_thesis_table": 0.9495240745633432,
+  "max_abs_dev_pp": 15.085192432082714
+}

@@ -1,0 +1,19 @@
+{
+  "seeds": [
+    42,
+    7,
+    13,
+    21,
+    99,
+    1,
+    2,
+    3,
+    123,
+    2024
+  ],
+  "n_pairs": 45,
+  "mean_ari_topic": 0.12748590735023252,
+  "mean_ari_layer": 0.18431815730647053,
+  "mean_layer_agreement": 0.5975111111111111,
+  "note": "ARI ao n\u00edvel do t\u00f3pico replica a m\u00e9trica da tese (0.135 em 5 seeds); ARI/concord\u00e2ncia ao n\u00edvel da camada mede a estabilidade \u00e0 granularidade a que as conclus\u00f5es s\u00e3o feitas."
+}
